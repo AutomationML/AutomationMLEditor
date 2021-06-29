@@ -1,0 +1,89 @@
+{
+  "AutomationMLEditorRecentVersion": "5.5.4.0",
+  "AutomationMLEditorReleaseNotes": "https://github.com/AutomationML/AutomationMLEditor/blob/main/Release/ReleaseNotes.html",
+  "AutomationMLEditorDownloadLink": "https://github.com/AutomationML/AutomationMLEditor/blob/main/Release/AMLEditor%205.5.4.SetupX64.zip",
+  "AutomationMLEditorInstallerVersion": "1.1.0",
+  "AutomationMLEditorInstallerDownloadLink": "https://github.com/AutomationML/AutomationMLEditor/blob/main/Installer/AmlEditorUpdaterSetup.zip",
+  "NewsItems": [
+    {
+      "Category": "DeveloperNews",
+      "Summary": "The AML Engine now offers a TreeTraversal Service. This service offers Breadth First and Depth First methods for traversing InternalElement hierarchies.",
+      "More": null,
+      "Link": "https://www.nuget.org/packages/Aml.Engine",
+      "LinkTarget": "Aml.Engine on NUGET",
+      "DateString": "18.10.2019"
+    },
+    {
+      "Category": "DeveloperNews",
+      "Summary": "PlugIn developers can test the integration of their own PlugIns from a local Nuget folder before publishing them to the NUGET platform. The procedure can be followed in the development environment for PlugIns.",
+      "More": null,
+      "Link": "https://github.com/AutomationML/AMLEditorPlugin",
+      "LinkTarget": "AutomationML Editor PlugIn Resources on GitHub",
+      "DateString": "18.10.2019"
+    },
+    {
+      "Category": "OfficeNews",
+      "Summary": "New AutomationML Brochure",
+      "More": null,
+      "Link": "http://www.unserebroschuere.de/automationml/WebView/",
+      "LinkTarget": "Online version available here",
+      "DateString": "18.10.2019"
+    },
+    {
+      "Category": "ReleaseNews",
+      "Summary": "New AutomationML Editor feature in preparation",
+      "More": "The editing of class instance relations in the editor will be extented with an update feature that allows the comparison of instances with the referenced class and the update of instances when classes have been modified.",
+      "Link": null,
+      "LinkTarget": null,
+      "DateString": "18.10.2019"
+    },
+    {
+      "Category": "ModelerNews",
+      "Summary": "Whitepaper Part 6 - AutomationML Component is available",
+      "More": "This Whitepaper is the 6th part of the AutomationML specification and defines a model for the comprehensive description of automation components as AutomationML Components. In the Whitepaper the corresponding role classes and interface classes and their relations to each other are defined. The defined AutomationML libraries can be loaded into the editor via the standard-option of the modeling view.",
+      "Link": "https://www.automationml.org/o.red.c/news-277.html",
+      "LinkTarget": "WP Compo, V 1.1.0",
+      "DateString": "19.10.2020"
+    },
+    {
+      "Category": "ModelerNews",
+      "Summary": "Application Recommendation Extensions 'Ethernet for Automation Project Configuration' and 'IO-Link for Automation Project Configuration' are available",
+      "More": "These Application Recommendation Extensions describe the specific extensions for the Ethernet bus as well as the IO-Link communication system, which is point-to-point extension of field busses.",
+      "Link": "https://www.automationml.org/o.red.c/news-276.html",
+      "LinkTarget": "ARE APC IO-Link, V 1.2.0",
+      "DateString": "08.09.2020"
+    },
+    {
+      "Category": "ModelerNews",
+      "Summary": "Group editing feature explained",
+      "More": "The modeling of groups is supported by the Aml editor with a specific edit method and dialog.",
+      "Link": "https://wiki.automationml.org/testfiles/90%20Software/10%20AutomationMLEditor/HowTo/EditGroups.png",
+      "LinkTarget": "instructions",
+      "DateString": "18.10.2019"
+    },
+	{
+      "Category": "ModelerNews",
+      "Summary": "New DRAFT BPR 011E Modelling of electric Interfaces, published for discussion",
+      "More": "Draft for the Best Practice Recommendation BPR 011E - Modelling of electric Interfaces for discussion with experts, contains corresponding libraries, under discussion and in a not finalized/standardized state.",
+      "Link": "https://www.automationml.org/o.red/uploads/dateien/1574427314-BPR%20ElectricConnectorLibrary_v1_0_0.zip",
+      "LinkTarget": "DRAFT BPR 011E Modelling of electric Interfaces",
+      "DateString": "22.11.2019"
+    },
+	{
+      "Category": "ModelerNews",
+      "Summary": "New Application Recommendation 'Drive Configurations (M-CAD aspects)' is available",
+      "More": "This application recommendation proposes a modelling method for mechanical aspects of drive configurations.",
+      "Link": "https://www.automationml.org/o.red.c/news-273.html",
+      "LinkTarget": "AR DRIVE MCAD, V1.0.",
+      "DateString": "11.05.2020"
+    },
+	{
+      "Category": "ModelerNews",
+      "Summary": "New Application Recommendation Extension 'Drive for Automation Project Configuration' is available",
+      "More": "This application recommendation proposes a modelling method of drive configurations based on automation project configuration data.",
+      "Link": "https://www.automationml.org/o.red.c/news-272.html",
+      "LinkTarget": "ARE APC Drive, V 1.2.0",
+      "DateString": "09.04.2020"
+    }		
+  ]
+}

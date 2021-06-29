@@ -1,0 +1,104 @@
+{
+	"definitions": {
+		"NewsItem": {
+			"type": [
+				"object",
+				"null"
+			],
+			"properties": {
+				"Category": {
+					"type": "string",
+					"enum": [
+						"DeveloperNews",
+						"ModelerNews",
+						"ReleaseNews",
+						"OfficeNews"
+					]
+				},
+				"Summary": {
+					"type": [
+						"string",
+						"null"
+					]
+				},
+				"More": {
+					"type": [
+						"string",
+						"null"
+					]
+				},
+				"Link": {
+					"type": [
+						"string",
+						"null"
+					]
+				},
+				"LinkTarget": {
+					"type": [
+						"string",
+						"null"
+					]
+				},
+				"DateString": {
+					"type": [
+						"string",
+						"null"
+					]
+				}
+			},
+			"required": [
+				"Category",
+				"Summary"
+			]
+		}
+	},
+	"type": "object",
+	"properties": {
+		"AutomationMLEditorRecentVersion": {
+			"type": [
+				"string",
+				"null"
+			]
+		},
+		"AutomationMLEditorReleaseNotes": {
+			"type": [
+				"string",
+				"null"
+			]
+		},
+		"AutomationMLEditorDownloadLink": {
+			"type": [
+				"string",
+				"null"
+			]
+		},
+		"AutomationMLEditorInstallerVersion": {
+			"type": [
+				"string",
+				"null"
+			]
+		},
+		"AutomationMLEditorInstallerDownloadLink": {
+			"type": [
+				"string",
+				"null"
+			]
+		},
+		"NewsItems": {
+			"type": [
+				"array",
+				"null"
+			],
+			"items": {
+				"$ref": "#/definitions/NewsItem"
+			}
+		}
+	},
+	"required": [
+		"AutomationMLEditorRecentVersion",
+		"AutomationMLEditorReleaseNotes",
+		"AutomationMLEditorDownloadLink",
+		"AutomationMLEditorInstallerVersion",
+		"AutomationMLEditorInstallerDownloadLink"
+	]
+}

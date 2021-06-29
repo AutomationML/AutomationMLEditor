@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>AutomationML Editor</title>
+</head>
+<body>
+  
+<h2 id="automationml-editor">AutomationML Editor</h2>
+<h3 id="version-5.5.2">Version 5.5.2</h3>
+<h5 id="bug-fixes">Bug Fixes</h5>
+<ol>
+<li>Editing of AttributTypeLibraries is enabled again.</li>
+<li>Vertical Scrollbars in library views are only visible if needed. This affects the capture dialog, too.</li>
+<li>The default name for all new aml files is &quot;newfile.aml&quot;</li>
+<li>Saving a new aml file as a container will change the name of the new aml file to the name of the container.</li>
+</ol>
+<h3 id="version-5.5.1">Version 5.5.1</h3>
+<h5 id="bug-fixes-1">Bug Fixes</h5>
+<p>AMLFile properties could not be edited if no object was selected before.</p>
+<h5 id="added-feature">Added Feature</h5>
+<p>ID and IDRef XS-Datatypes are editable as normalized strings when used as
+AttributeDataTypes in Attribute definitions.</p>
+<h3 id="version-5.5.0">Version 5.5.0</h3>
+<h5 id="changes">Changes</h5>
+<p>In this version of the editor, the appearance of the editor has been
+changed a little. A slightly improved icon library is used to
+represent the AutomationML objects, in which the icons have been
+made slightly more readable and the display efficiency has been optimized.
+This library is publicly available via the AutomationML website.</p>
+<p>Attributes are now also displayed in the tree view of the attribute type library.
+This simplifies the construction of an attribute type library by making it easier
+to copy attributes back and forth between attribute types.</p>
+<h5 id="notes-to-plugin-developers">Notes to plugin developers</h5>
+<p>This Version supports a new Plugin Interface <em>INotifyAMLDocumentSaved</em>. Plugins, implementing this
+interface get a notification when an AMLFile has been saved by the AutomationML Editor.
+The Plugin contract has to be updated to version 2.4.0 to use this interface.</p>
+
+</body>
+</html>

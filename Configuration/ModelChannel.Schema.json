@@ -1,0 +1,122 @@
+{
+	"$schema": "http://json-schema.org/draft-07/schema#",
+	"type": "object",
+	"properties": {
+		"Models": {
+			"type": [
+				"array",
+				"null"
+			],
+			"items": {
+				"$ref": "#/definitions/Model"
+			}
+		}
+	},
+	"required": [
+		"Models"
+	],
+	"definitions": {
+		"Model": {
+			"type": [
+				"object",
+				"null"
+			],
+			"properties": {
+				"Category": {
+					"type": "string",
+					"enum": [
+						"Standard",
+						"TopLevel",
+						"Advanced",
+						"BestPractice",
+						"ApplicationRecommendation"
+					]
+				},
+				"Name": {
+					"type": [
+						"string",
+						"null"
+					]
+				},
+				"Description": {
+					"type": [
+						"string",
+						"null"
+					]
+				},
+				"Parts": {
+					"type": [
+						"array",
+						"null"
+					],
+					"items": {
+						"$ref": "#/definitions/ModelPart"
+					}
+				},
+				"DateString": {
+					"type": [
+						"string",
+						"null"
+					]
+				},
+				"Location": {
+					"type": [
+						"string",
+						"null"
+					]
+				}
+			},
+			"required": [
+				"Category",
+				"Name",
+				"Description"
+			]
+		},
+		"ModelPart": {
+			"type": [
+				"object",
+				"null"
+			],
+			"properties": {
+				"CAEXVersion": {
+					"type": [
+						"string",
+						"null"
+					]
+				},
+				"Name": {
+					"type": [
+						"string",
+						"null"
+					]
+				},
+				"PartType": {
+					"type": "string",
+					"enum": [
+						"AMLDocument",
+						"AMLContainer",
+						"AMLLibrary",
+						"AMLExternalPart",
+						"AdditionalDocument"
+					]
+				},
+				"DateString": {
+					"type": [
+						"string",
+						"null"
+					]
+				},
+				"Location": {
+					"type": [
+						"string",
+						"null"
+					]
+				}
+			},
+			"required": [
+				"Name",
+				"PartType"
+			]
+		}
+	}
+}
