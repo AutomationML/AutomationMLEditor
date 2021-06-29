@@ -1,5 +1,38 @@
 {
 	"Track": "https://wiki.automationml.org/wiki/index.php/AutomationML_Editor#Bug_reports",
 	"AmlHome": "https://www.automationml.org/o.red.c/home.html",	
-	"AMLProjectPage": "https://raw.githubusercontent.com/AutomationML/AutomationMLEditor/main"
+	"AMLProjectPage": "https://raw.githubusercontent.com/AutomationML/AutomationMLEditor/main",
+	"AMLToolPages":
+	[
+		{
+			"Page": "https://www.automationml.org/o.red.c/dateien.html"
+		},
+		{
+			"Page": "https://www.automationml.org/o.red.c/dateien.html?seite=2"
+		},
+		{
+			"Page": "https://www.automationml.org/o.red.c/dateien.html?seite=3"
+		},
+		{
+			"Page": "https://www.automationml.org/o.red.c/dateien.html?seite=4"
+		},
+		{
+			"Page": "https://www.automationml.org/o.red.c/dateien.html?seite=5"
+		},
+		{
+			"Page": "https://www.automationml.org/o.red.c/dateien.html?seite=6"
+		},
+		{
+			"Page": "https://www.automationml.org/o.red.c/dateien.html?seite=7"
+		},
+		{
+			"Page": "https://www.automationml.org/o.red.c/dateien.html?seite=8"
+		},
+		{
+			"Page": "https://www.automationml.org/o.red.c/dateien.html?seite=9"
+		},
+		{
+			"Page": "https://www.automationml.org/o.red.c/dateien.html?seite=10"
+		}
+	]
 }
