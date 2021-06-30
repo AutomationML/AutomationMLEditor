@@ -1,9 +1,9 @@
 {
   "AutomationMLEditorRecentVersion": "5.5.4.0",
   "AutomationMLEditorReleaseNotes": "https://github.com/AutomationML/AutomationMLEditor/blob/main/Release/ReleaseNotes.md",
-  "AutomationMLEditorDownloadLink": "https://github.com/AutomationML/AutomationMLEditor/blob/main/Release/AMLEditor%205.5.4.SetupX64.zip",
+  "AutomationMLEditorDownloadLink": "https://github.com/AutomationML/AutomationMLEditor/raw/main/Release/AMLEditorSetup.zip",
   "AutomationMLEditorInstallerVersion": "1.1.0",
-  "AutomationMLEditorInstallerDownloadLink": "https://github.com/AutomationML/AutomationMLEditor/blob/main/Installer/AmlEditorUpdaterSetup.zip",
+  "AutomationMLEditorInstallerDownloadLink": "https://github.com/AutomationML/AutomationMLEditor/raw/main/Installer/AmlEditorUpdaterSetup.zip",
   "NewsItems": [
     {
       "Category": "DeveloperNews",
@@ -30,12 +30,12 @@
       "DateString": "18.10.2019"
     },
     {
-      "Category": "ReleaseNews",
-      "Summary": "New AutomationML Editor feature in preparation",
-      "More": "The editing of class instance relations in the editor will be extented with an update feature that allows the comparison of instances with the referenced class and the update of instances when classes have been modified.",
-      "Link": null,
-      "LinkTarget": null,
-      "DateString": "18.10.2019"
+      "Category": "OfficeNews",
+      "Summary": "Relaunch of AutomationML Web Representation. The new site will be online by July 19th at the latest.",
+      "More": null,
+      "Link": "http://www.unserebroschuere.de/automationml/WebView/",
+      "LinkTarget": "Online version available here",
+      "DateString": "30.06.2021"
     },
     {
       "Category": "ModelerNews",
