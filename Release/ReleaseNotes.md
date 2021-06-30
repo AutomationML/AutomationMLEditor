@@ -4,7 +4,7 @@
 
 ##### Changes
 
-The AutomationML Association renews its web representation. This also makes some resources used by the editor temporarily unusable. Before a new permanent solutionis implemented, the editor uses a resource library provided on GitHub.  This is used temporarily to install program updates and publish news. For future use of modeling resources, it is required that you update your AutomationML Editor version by **July 19 at the latest.**
+The AutomationML Association renews its web representation. This also makes some resources used by the editor temporarily unusable. Before a new permanent solutionis implemented, the editor uses a resource library provided on GitHub.  This is used temporarily to install program updates and publish news. For future use of modeling resources, it is required that you update your AutomationML Editor version by **July 12 at the latest.**
 
 
 ### Version 5.5.3
