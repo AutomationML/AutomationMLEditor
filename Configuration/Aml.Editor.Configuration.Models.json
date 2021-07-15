@@ -3,32 +3,25 @@
     {
       "Category": "Standard",
       "Name": "Part1: Base",
-      "Description": "Basic AutomationML standard libraries (2 Editions).",
-      "Parts": [
-        {
-          "CAEXVersion": "CAEX 2.15",
-          "Name": "Basic RoleClass Library",
-          "PartType": "AMLLibrary",
-          "DateString": "01.01.0001",
-          "Location": "Part_1/AutomationMLBaseRoleClassLib.aml"
-        },
-        {
-          "CAEXVersion": "CAEX 2.15",
-          "Name": "Basic InterfaceClass Library",
-          "PartType": "AMLLibrary",
-          "DateString": "01.01.0001",
-          "Location": "Part_1/AutomationMLInterfaceClassLib.aml"
-        },
+      "Description": "Basic AutomationML standard libraries (2. Edition).",
+      "Parts": [        
         {
           "CAEXVersion": "CAEX 3.0",
           "Name": "AutomationML 2.10 Basic Libraries",
           "PartType": "AMLLibrary",
-          "DateString": "26.08.2016",
-          "Location": "https://wiki.automationml.org/testfiles/40%20Standardisation/05%20AutomationML/AutomationML_v2.0/Part%201%20-%20work%20in%20progress/2016-08-26/AutomationML2.10BaseLibraries.aml"
+          "DateString": "21.06.2018",
+          "Location": "AutomationML2.1BaseLibraries.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 3.0, AutomationML Edition 2.1",
+          "Name": "Whitepaper Part 1 – Architecture and General Requirements",
+          "PartType": "AdditionalDocument",
+          "DateString": "07.07.2018",
+          "Location": "WP AutomationML Edition 2.pdf"
         }
       ],
       "DateString": "16.12.2014",
-      "Location": "https://wiki.automationml.org/testfiles/40%20Standardisation/05%20AutomationML/AutomationML_v2.0/Libraries/AutomationML_Standard_Libraries_Part1.zip"
+      "Location": "https://www.automationml.org/wp-content/uploads/2021/04/Whitepaper-AutomationML-Edition-2.1.zip"
     },    
 	{
       "Category": "Standard",

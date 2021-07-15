@@ -1,39 +1,12 @@
 {
-	"Track": "https://wiki.automationml.org/wiki/index.php/AutomationML_Editor#Bug_reports",
-	"AmlHome": "https://www.automationml.org/o.red.c/home.html",	
+	"Track": "https://www.automationml.org/contact/",
+	"AmlHome": "https://www.automationml.org/",	
 	"AMLProjectPage": "https://raw.githubusercontent.com/AutomationML/AutomationMLEditor/main",
 	"AMLToolPages":
 	[
 		{
-			"Page": "https://www.automationml.org/o.red.c/dateien.html"
-		},
-		{
-			"Page": "https://www.automationml.org/o.red.c/dateien.html?seite=2"
-		},
-		{
-			"Page": "https://www.automationml.org/o.red.c/dateien.html?seite=3"
-		},
-		{
-			"Page": "https://www.automationml.org/o.red.c/dateien.html?seite=4"
-		},
-		{
-			"Page": "https://www.automationml.org/o.red.c/dateien.html?seite=5"
-		},
-		{
-			"Page": "https://www.automationml.org/o.red.c/dateien.html?seite=6"
-		},
-		{
-			"Page": "https://www.automationml.org/o.red.c/dateien.html?seite=7"
-		},
-		{
-			"Page": "https://www.automationml.org/o.red.c/dateien.html?seite=8"
-		},
-		{
-			"Page": "https://www.automationml.org/o.red.c/dateien.html?seite=9"
-		},
-		{
-			"Page": "https://www.automationml.org/o.red.c/dateien.html?seite=10"
+			"Page": "https://www.automationml.org/download-archive/"
 		}
 	],
-	"ListAttributes": "https://www.automationml.org/o.red/uploads/dateien/1485864774-BPR%20004E_BPR_List_Attributes_V1.0.0.pdf"
+	"ListAttributes": "https://www.automationml.org/wp-content/uploads/2021/06/BPR_004E_List_Attributes_Jan2016.pdf"
 }
