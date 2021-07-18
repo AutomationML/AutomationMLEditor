@@ -25,23 +25,23 @@
     }, 
     {
       "Category": "AMLBook",
-      "Name": "A Practical Guide - Chapter 1",
+      "Name": "Supplementary content for: A Practical Guide - Chapter 1",
       "Description": "What is AutomationML.",
       "Parts": [
         {
           "CAEXVersion": "1.0",
-          "Name": "more",
+          "Name": "click here to learn more about this chapter",
           "PartType": "AdditionalDocument",
           "DateString": "16.07.2021",
           "Location": "https://www.automationml.org/about-automationml/publications/amlbook/a-practical-guide/chapter-1-what-is-automationml/"
         }
       ],
-      "DateString": "01.01.0001",
+      "DateString": "16.07.2021",
       "Location": null
     },
     {
       "Category": "AMLBook",
-      "Name": "A Practical Guide - Chapter 2",
+      "Name": "Supplementary content for: A Practical Guide - Chapter 2",
       "Description": "The CAEX and AutomationML Guide.",
       "Parts": [
         {
@@ -60,23 +60,23 @@
         },
         {
           "CAEXVersion": "CAEX 3.0",
-          "Name": "more",
+          "Name": "click here to learn more about this chapter",
           "PartType": "AdditionalDocument",
           "DateString": "16.07.2021",
           "Location": "https://www.automationml.org/about-automationml/publications/amlbook/a-practical-guide/chapter-2-the-caex-and-automationml-guide/"
         }
       ],
-      "DateString": "01.01.0001",
+      "DateString": "16.07.2021",
       "Location": null
     },
     {
       "Category": "AMLBook",
-      "Name": "A Practical Guide - Chapter 3",
+      "Name": "Supplementary content for: A Practical Guide - Chapter 3",
       "Description": "Modelling of Geometry and Kinematics.",
       "Parts": [
         {
           "CAEXVersion": "1.0",
-          "Name": "more",
+          "Name": "click here to learn more about this chapter",
           "PartType": "AdditionalDocument",
           "DateString": "16.07.2021",
           "Location": "https://www.automationml.org/about-automationml/publications/amlbook/a-practical-guide/chapter-3-geometry/"
@@ -87,7 +87,7 @@
     },
     {
       "Category": "AMLBook",
-      "Name": "A Practical Guide - Chapter 4",
+      "Name": "Supplementary content for: A Practical Guide - Chapter 4",
       "Description": "Modelling of Behaviour.",
       "Parts": [
       	{
@@ -99,7 +99,7 @@
         },
         {
           "CAEXVersion": "CAEX 2.15",
-          "Name": "more",
+          "Name": "click here to learn more about this chapter",
           "PartType": "AdditionalDocument",
           "DateString": "16.07.2021",
           "Location": "https://www.automationml.org/about-automationml/publications/amlbook/a-practical-guide/chapter-4-modelling-of-behaviour/"
@@ -110,23 +110,23 @@
     },
     {
       "Category": "AMLBook",
-      "Name": "A Practical Guide - Chapter 5",
+      "Name": "Supplementary content for: A Practical Guide - Chapter 5",
       "Description": "The AML Editor.",
       "Parts": [
         {
           "CAEXVersion": "1.0",
-          "Name": "more",
+          "Name": "click here to learn more about this chapter",
           "PartType": "AdditionalDocument",
           "DateString": "16.07.2021",
           "Location": "https://www.automationml.org/about-automationml/publications/amlbook/a-practical-guide/chapter-5-the-automationml-editor/"
         }
       ],
-      "DateString": "01.01.0001",
+      "DateString": "16.07.2021",
       "Location": null
     },
     {
       "Category": "AMLBook",
-      "Name": "The Industrial Cookbook - Chapter 7",
+      "Name": "Supplementary content for: The Industrial Cookbook - Chapter 7",
       "Description": "AML domain model for VDI 3697-1: Data exchange between CAE and PCS.",
       "Parts": [
         {
@@ -137,12 +137,12 @@
           "Location": "https://www.automationml.org/wp-content/uploads/2021/07/CookBook-VDI-3697-1_V1.0.zip"
         }
       ],
-      "DateString": "01.01.0001",
+      "DateString": "16.07.2021",
       "Location": null
     },
     {
       "Category": "AMLBook",
-      "Name": "The Industrial Cookbook - Chapter 8",
+      "Name": "Supplementary content for: The Industrial Cookbook - Chapter 8",
       "Description": "AML domain model for VDI 3697-2: Data Exchange between CAE systems.",
       "Parts": [
         {
@@ -153,12 +153,12 @@
           "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook-VDI3697-2_V1.0.zip"
         }
       ],
-      "DateString": "01.01.0001",
+      "DateString": "16.07.2021",
       "Location": null
     },
     {
       "Category": "AMLBook",
-      "Name": "The Industrial Cookbook - Chapter 9",
+      "Name": "Supplementary content for: The Industrial Cookbook - Chapter 9",
       "Description": "MTP – Automation Engineering of Modular Process Plants.",
       "Parts": [
         {
@@ -169,28 +169,28 @@
           "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook-MTP_V1.0.zip"
         }
       ],
-      "DateString": "01.01.0001",
+      "DateString": "16.07.2021",
       "Location": null
     },
     {
       "Category": "AMLBook",
-      "Name": "The Industrial Cookbook - Chapter 10",
+      "Name": "Supplementary content for: The Industrial Cookbook - Chapter 10",
       "Description": "AML domain model for System Control Diagrams.",
       "Parts": [
         {
           "CAEXVersion": "CAEX 2.15",
-          "Name": "more",
+          "Name": "AML SCD Domain Model Files",
           "PartType": "AMLDocument",
           "DateString": "16.07.2021",
           "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook-SCD_Domain_Model.zip"
         }
       ],
-      "DateString": "01.01.0001",
+      "DateString": "16.07.2021",
       "Location": null
     },
     {
       "Category": "AMLBook",
-      "Name": "The Industrial Cookbook - Chapter 11",
+      "Name": "Supplementary content for: The Industrial Cookbook - Chapter 11",
       "Description": "Data exchange between ECAD and PLC tools – AR APC.",
       "Parts": [
         {
@@ -201,12 +201,12 @@
           "Location": "https://www.automationml.org/about-automationml/publications/amlbook/automationml-the-industrial-cookbook/part-ii-the-industrial-cookbook/arapc_tools_and_partners/"
         }
       ],
-      "DateString": "01.01.0001",
+      "DateString": "16.07.2021",
       "Location": null
     },
     {
       "Category": "AMLBook",
-      "Name": "The Industrial Cookbook - Chapter 12",
+      "Name": "Supplementary content for: The Industrial Cookbook - Chapter 12",
       "Description": "Modelling of Drive Configurations – AR DRIVES MCAD.",
       "Parts": [
         {
@@ -217,12 +217,12 @@
           "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook-DriveConfigurationsLibrary_v1_0_0-incl-Examples_V1.0.zip"
         }
       ],
-      "DateString": "01.01.0001",
+      "DateString": "16.07.2021",
       "Location": null
     },
     {
       "Category": "AMLBook",
-      "Name": "The Industrial Cookbook - Chapter 13",
+      "Name": "Supplementary content for: The Industrial Cookbook - Chapter 13",
       "Description": "AML domain model for material handling.",
       "Parts": [
         {
@@ -233,12 +233,12 @@
           "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook-MaterialHandling_V1.0.zip"
         }
       ],
-      "DateString": "01.01.0001",
+      "DateString": "16.07.2021",
       "Location": null
     },
     {
       "Category": "AMLBook",
-      "Name": "The Industrial Cookbook - Chapter 14",
+      "Name": "Supplementary content for: The Industrial Cookbook - Chapter 14",
       "Description": "The AutomationML Component.",
       "Parts": [
         {
@@ -249,12 +249,12 @@
           "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook-AutomationMLComponent_V1.0.zip"
         }
       ],
-      "DateString": "01.01.0001",
+      "DateString": "16.07.2021",
       "Location": null
     },
     {
       "Category": "AMLBook",
-      "Name": "The Industrial Cookbook - Chapter 15",
+      "Name": "Supplementary content for: The Industrial Cookbook - Chapter 15",
       "Description": "AML domain model for Electric Interfaces.",
       "Parts": [
         {
@@ -265,12 +265,12 @@
           "Location": "https://www.automationml.org/wp-content/uploads/2021/06/AMLCookBook-Electricinterfaces_V1.0.zip"
         }
       ],
-      "DateString": "01.01.0001",
+      "DateString": "16.07.2021",
       "Location": null
     },
     {
       "Category": "AMLBook",
-      "Name": "The Industrial Cookbook - Chapter 16",
+      "Name": "Supplementary content for: The Industrial Cookbook - Chapter 16",
       "Description": "AutomationML Component Checker.",
       "Parts": [
         {
@@ -281,12 +281,12 @@
           "Location": "https://amlcc.tarakos.de/"
         }
       ],
-      "DateString": "01.01.0001",
+      "DateString": "16.07.2021",
       "Location": null
     },
     {
       "Category": "AMLBook",
-      "Name": "The Industrial Cookbook - Chapter 17",
+      "Name": "Supplementary content for: The Industrial Cookbook - Chapter 17",
       "Description": "AML domain model for communication systems.",
       "Parts": [
         {
@@ -297,12 +297,12 @@
           "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook-Communication_V1.0.zip"
         }
       ],
-      "DateString": "01.01.0001",
+      "DateString": "16.07.2021",
       "Location": null
     },
     {
       "Category": "AMLBook",
-      "Name": "The Industrial Cookbook - Chapter 18",
+      "Name": "Supplementary content for: The Industrial Cookbook - Chapter 18",
       "Description": "Modelling OPC UA with AutomationML.",
       "Parts": [
         {
@@ -313,12 +313,12 @@
           "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook-OPC_UA_Example_V1.0.zip"
         }
       ],
-      "DateString": "01.01.0001",
+      "DateString": "16.07.2021",
       "Location": null
     },
     {
       "Category": "AMLBook",
-      "Name": "The Industrial Cookbook - Chapter 19",
+      "Name": "Supplementary content for: The Industrial Cookbook - Chapter 19",
       "Description": "Serialization of the Asset Administration Shell by AutomationML.",
       "Parts": [
         {
@@ -329,12 +329,12 @@
           "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook_AASModelling_V1.0.zip"
         }
       ],
-      "DateString": "01.01.0001",
+      "DateString": "16.07.2021",
       "Location": null
     },
     {
       "Category": "AMLBook",
-      "Name": "The Industrial Cookbook - Chapter 22",
+      "Name": "Supplementary content for: The Industrial Cookbook - Chapter 22",
       "Description": "AutomationML and eCl@ss Integration.",
       "Parts": [
         {
@@ -345,12 +345,12 @@
           "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook_eClassIntegration_V1.0.zip"
         }
       ],
-      "DateString": "01.01.0001",
+      "DateString": "16.07.2021",
       "Location": null
     },
     {
       "Category": "AMLBook",
-      "Name": "The Industrial Cookbook - Chapter 23",
+      "Name": "Supplementary content for: The Industrial Cookbook - Chapter 23",
       "Description": "Semantic and Pragmatic Interoperability Mappings.",
       "Parts": [
         {
@@ -361,12 +361,12 @@
           "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook-SemanticAndPragmaticInteroperabilityMappings_V1.0.zip"
         }
       ],
-      "DateString": "01.01.0001",
+      "DateString": "16.07.2021",
       "Location": null
     },
     {
       "Category": "AMLBook",
-      "Name": "The Industrial Cookbook - Chapter 24",
+      "Name": "Supplementary content for: The Industrial Cookbook - Chapter 24",
       "Description": "Extended RoleClass libraries.",
       "Parts": [
         {
@@ -377,12 +377,12 @@
           "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook-ExtendedRoleClassLibraries_V1.0.zip"
         }
       ],
-      "DateString": "01.01.0001",
+      "DateString": "16.07.2021",
       "Location": null
     },
     {
       "Category": "AMLBook",
-      "Name": "The Industrial Cookbook - Chapter 25",
+      "Name": "Supplementary content for: The Industrial Cookbook - Chapter 25",
       "Description": "AML-based Enterprise Control System Integration by IEC 62264.",
       "Parts": [
         {
@@ -393,12 +393,12 @@
           "Location": "https://www.automationml.org/wp-content/uploads/2021/06/Cookbook-IEC62264_V1.0.zip"
         }
       ],
-      "DateString": "01.01.0001",
+      "DateString": "16.07.2021",
       "Location": null
     },
     {
       "Category": "AMLBook",
-      "Name": "The Industrial Cookbook - Chapter 28",
+      "Name": "Supplementary content for: The Industrial Cookbook - Chapter 28",
       "Description": "Concept to refine and computationally evaluate PPR information in AutomationML.",
       "Parts": [
         {
@@ -416,12 +416,12 @@
           "Location": "https://github.com/x-PPU/xPPU-AML-PPR/"
         }
       ],
-      "DateString": "01.01.0001",
+      "DateString": "16.07.2021",
       "Location": null
     },
     {
       "Category": "AMLBook",
-      "Name": "The Industrial Cookbook - Chapter 30",
+      "Name": "Supplementary content for: The Industrial Cookbook - Chapter 30",
       "Description": "Optimizing the engineering of technical energy management system.",
       "Parts": [
         {
@@ -432,12 +432,12 @@
           "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook-EnergyManagementSystems_V1.0.zip"
         }
       ],
-      "DateString": "01.01.0001",
+      "DateString": "16.07.2021",
       "Location": null
     },
     {
       "Category": "AMLBook",
-      "Name": "The Industrial Cookbook - Chapter 31",
+      "Name": "Supplementary content for: The Industrial Cookbook - Chapter 31",
       "Description": "Skill-Based Engineering of Automation Systems: Use Case and Evaluation.",
       "Parts": [
         {
@@ -448,12 +448,12 @@
           "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook-SkillBasedEngineering_V1.0.zip"
         }
       ],
-      "DateString": "01.01.0001",
+      "DateString": "16.07.2021",
       "Location": null
     },
     {
       "Category": "AMLBook",
-      "Name": "The Industrial Cookbook - Chapter 32",
+      "Name": "Supplementary content for: The Industrial Cookbook - Chapter 32",
       "Description": "Engineering Data Logistics based on AML.",
       "Parts": [
         {
@@ -464,12 +464,12 @@
           "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook-EngineeringDataLogisticsV1.0.zip"
         }
       ],
-      "DateString": "01.01.0001",
+      "DateString": "16.07.2021",
       "Location": null
     },
     {
       "Category": "AMLBook",
-      "Name": "The Industrial Cookbook - Chapter 33",
+      "Name": "Supplementary content for: The Industrial Cookbook - Chapter 33",
       "Description": "Energy optimization during virtual commissioning.",
       "Parts": [
         {
@@ -480,7 +480,7 @@
           "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook_EnergyOptimizationVirtualCommissioning_V1.0.zip"
         }
       ],
-      "DateString": "01.01.0001",
+      "DateString": "16.07.2021",
       "Location": null
     },
     {
@@ -659,7 +659,7 @@
           "CAEXVersion": "CAEX 2.15",
           "Name": "Whitepaper AutomationML Part 5 Communication",
           "PartType": "AdditionalDocument",
-          "DateString": "1.09.2014",
+          "DateString": "01.09.2014",
           "Location": "White_paper_AutomationML_Communication_V1.0.0.pdf"
         }
       ],
@@ -679,7 +679,7 @@
           "Location": "AutomationML_Part_6_WP_Compo_v1.1.0.aml"
         },
         {
-          "CAEXVersion": "CAEX 2.15, WP Compo V1.1.0",
+          "CAEXVersion": "CAEX 2.15",
           "Name": "Whitepaper AutomationML Part 6: AutomationML Component",
           "PartType": "AdditionalDocument",
           "DateString": "19.10.2020",

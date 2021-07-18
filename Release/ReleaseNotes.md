@@ -1,5 +1,14 @@
 ﻿## AutomationML Editor
 
+### Version 5.5.6
+
+##### Changes
+
+1. During document validation, Object IDs that are not implemented as GUIDs are no longer reported as incorrect formats. The implementation of IDs as GUIDs according to RFC4122 
+is a recommendation and may be handled differently by other tools. If the GUID format is not used it may be difficult to 
+distinguish a name reference from an ID reference in certain situations.
+
+2. Minor Changes in the Model and News explorer should improve the look and feel.
 
 ### Version 5.5.5
 

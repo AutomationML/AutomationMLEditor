@@ -1,5 +1,5 @@
 {
-  "AutomationMLEditorRecentVersion": "5.5.5.0",
+  "AutomationMLEditorRecentVersion": "5.5.6.0",
   "AutomationMLEditorReleaseNotes": "https://github.com/AutomationML/AutomationMLEditor/blob/main/Release/ReleaseNotes.md",
   "AutomationMLEditorDownloadLink": "https://github.com/AutomationML/AutomationMLEditor/raw/main/Release/AMLEditorSetup.zip",
   "AutomationMLEditorInstallerVersion": "1.1.0",
@@ -11,8 +11,8 @@
       "More": null,
       "Links": [        
         {
-      "Address": "https://www.nuget.org/packages/Aml.Engine",
-      "LinkTarget": "Aml.Engine on NUGET"
+      "Address": "https://www.nuget.org/packages/Aml.Engine.Services.TreeTraversal/",
+      "LinkTarget": "Aml.Engine.Services.TreeTraversal on NUGET"
         }
       ],
       "DateString": "18.10.2019"
