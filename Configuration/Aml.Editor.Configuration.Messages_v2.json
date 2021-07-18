@@ -1,0 +1,129 @@
+{
+  "AutomationMLEditorRecentVersion": "5.5.5.0",
+  "AutomationMLEditorReleaseNotes": "https://github.com/AutomationML/AutomationMLEditor/blob/main/Release/ReleaseNotes.md",
+  "AutomationMLEditorDownloadLink": "https://github.com/AutomationML/AutomationMLEditor/raw/main/Release/AMLEditorSetup.zip",
+  "AutomationMLEditorInstallerVersion": "1.1.0",
+  "AutomationMLEditorInstallerDownloadLink": "https://github.com/AutomationML/AutomationMLEditor/raw/main/Installer/AmlEditorUpdaterSetup.zip",
+  "NewsItems": [
+    {
+      "Category": "DeveloperNews",
+      "Summary": "The AML Engine now offers a TreeTraversal Service. This service offers Breadth First and Depth First methods for traversing InternalElement hierarchies.",
+      "More": null,
+      "Links": [        
+        {
+      "Address": "https://www.nuget.org/packages/Aml.Engine",
+      "LinkTarget": "Aml.Engine on NUGET"
+        }
+      ],
+      "DateString": "18.10.2019"
+    },
+    {
+      "Category": "DeveloperNews",
+      "Summary": "AutomationML Position Paper on Implementation Technologies for the Asset Administration Shell.",
+      "More": "Industrie 4.0 experts are currently involved in implementation efforts for the Asset Administration Shell, a core concept for the envisioned digitalised industry. A panel of experts under the umbrella of the AutomationML e.V. has formulated a paper presenting their recommendations for the implementation technologies for Industrie 4.0 scenarios involving the Asset Administration Shell.",
+      "Links": [        
+        {
+      "Address": "https://www.automationml.org/news/automationml-position-paper-published/",
+      "LinkTarget": "AutomationML – Position Paper"
+        }
+      ],
+      "DateString": "14.07.2021"
+    },     
+    {
+      "Category": "DeveloperNews",
+      "Summary": "PlugIn developers can test the integration of their own PlugIns from a local Nuget folder before publishing them to the NUGET platform. The procedure can be followed in the development environment for PlugIns.",
+      "More": null,
+      "Links": [        
+        {
+      "Address": "https://github.com/AutomationML/AMLEditorPlugin",
+      "LinkTarget": "AutomationML Editor PlugIn Resources on GitHub"
+        }
+      ],
+      "DateString": "18.10.2019"
+    },          
+    {
+      "Category": "DeveloperNews",
+      "Summary": "AutomationML Software Development by example.",
+      "More": "AutomationML provides sample implementations for basic technologies and methods that can be used to work with XML-based data models. ",
+      "Links": [        
+        {
+      "Address": "https://www.automationml.org/about-automationml/publications/amlbook/automationml-the-industrial-cookbook/part-1-software-development/",
+      "LinkTarget": "Example project"
+        }
+      ],
+      "DateString": "16.07.2021"
+    },               
+    {
+      "Category": "DeveloperNews",
+      "Summary": "AutomationML Import and Export Programming.",
+      "More": "A guidance for programming AutomationML export and import software interfaces. The importing software interface (Importer) therefore needs an assignment strategy and a mapping rule for the semantically unique transformation of the AutomationML object into the target engineering tool in order to ensure a lossless data transfer. By means of a basic software architecture we show how the transformation works and describe which concepts and strategies can be used to successfully implement export/import interfaces. ",
+      "Links": [        
+        {
+      "Address": "https://www.automationml.org/about-automationml/publications/amlbook/automationml-the-industrial-cookbook/part-1-software-development/",
+      "LinkTarget": "AutomationML example import and export implementations."
+        }
+      ],
+      "DateString": "16.07.2021"
+    },                    
+    {
+      "Category": "DeveloperNews",
+      "Summary": "New AutomationML Icon Library is available.",
+      "More": "The new AutomationML Icon Library will be used in the next version of the AutomationML Editor (v. 5.5.0). Compared to previous versions, this one is more readable and easier to integrate into software. All icons are vector graphics and available in different formats (.svg, .png, .pdf, .xaml).",
+      "Links": [        
+        {
+      "Address": "https://www.automationml.org/news/automationml-icon-library/",
+      "LinkTarget": "AutomationML Icon Library"
+        }
+      ],
+      "DateString": "26.01.2021"
+    },
+    {
+      "Category": "OfficeNews",
+      "Summary": "Our new website is now online and presents itself in a contemporary, fresh and completely renewed design.",
+      "More": "With a fresh and completly new design the AutomationML site is significantly more modern, clearer and more user-friendly than before. It also offers users extensive information about AutomationML, the AutomationML Association, its members and its publications. In addition, there is supplementary content on the AutomationML books, which you can find on our new webpage. Links to the chapters are also published in the AMLBook section here.",
+      "Links": [        
+        {
+      "Address": "https://www.automationml.org",
+      "LinkTarget": "AutomationML"
+        }
+      ],
+      "DateString": "16.07.2021"
+    }, 
+    {
+      "Category": "OfficeNews",
+      "Summary": "Along with the 15. birthday of AutomationML, the new AutomationML books for the global community are finally published.",
+      "More": "The textbook is written for students and lecturers explaining the innovations and basic concepts of AutomationML and the AutomationML Editor. The cookbook provides recipes for AML software implementations and how to model various industrial use cases, for example the Modelling of AAS, MTP, SCD, OPC UA, Automation Components, Automation Projects, drive configurations, requirement models, communication systems, electrical interfaces and cables, or semantic integration aspects as eClass integration or handling of semantic heterogeneity.",
+      "Links": [ 
+      	{
+      "Address": "https://www.automationml.org/about-automationml/publications/amlbook/a-practical-guide/",
+      "LinkTarget": "AutomationML - A Practical Guide (AutomationML site)"
+        },   
+      	{
+      "Address": "https://lnkd.in/dTmdxcq/",
+      "LinkTarget": "AutomationML - A Practical Guide (publishers site)"
+        },       
+        {
+      "Address": "https://www.automationml.org/about-automationml/publications/amlbook/automationml-the-industrial-cookbook/",
+      "LinkTarget": "AutomationML - The Industrial Cookbook (AutomationML site)"
+        },       
+        {
+      "Address": "https://lnkd.in/dns7B-7/",
+      "LinkTarget": "AutomationML - The Industrial Cookbook (publishers site)"
+        }
+      ],
+      "DateString": "16.07.2021"
+    },
+	{
+      "Category": "ModelerNews",
+      "Summary": "Best Practice Recommendation CC-Link is available",
+      "More": "This Best Practice Recommendation describes classes that are needed to describe CC-Link related networks and their devices. The definitions of this document can be combined with other existing modelling concepts.",
+      "Links": [        
+        {
+      "Address": "https://www.automationml.org/news/best-practice-recommendation-cc-link-is-available/",
+      "LinkTarget": "CC-Link from AutomationML"
+        }
+      ],
+      "DateString": "08.03.2021"
+    }		
+  ]
+}

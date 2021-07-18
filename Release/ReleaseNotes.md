@@ -1,5 +1,23 @@
 ﻿## AutomationML Editor
 
+
+### Version 5.5.5
+
+##### Changes
+
+1. The editor now offers the possibility to download AutomationML libraries and
+models directly from the new AutomationML download page.
+
+2. In addition, the model explorer has been adapted and the AutomationML models
+and examples linked via the AML book have been integrated. 
+For this purpose, the referencing scheme for the model page and the news
+page has been adapted.
+
+3. The included AutomationML Standard libraries Edition 2.1 
+have been exchanged for the versions offered on the automationml site.
+
+
+
 ### Version 5.5.4
 
 ##### Changes

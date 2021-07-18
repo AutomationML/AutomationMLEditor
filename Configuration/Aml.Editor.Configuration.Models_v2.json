@@ -1,0 +1,1115 @@
+{
+  "Models": [
+    {
+      "Category": "Whitepaper",
+      "Name": "Part1: Architecture and General Requirements",
+      "Description": "Basic AutomationML standard libraries (2. Edition).",
+      "Parts": [        
+        {
+          "CAEXVersion": "CAEX 3.0",
+          "Name": "AutomationML 2.10 Basic Libraries",
+          "PartType": "AMLLibrary",
+          "DateString": "21.06.2018",
+          "Location": "AutomationML2.1BaseLibraries.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 3.0",
+          "Name": "Whitepaper AutomationML Part 1 – Architecture and General Requirements",
+          "PartType": "AdditionalDocument",
+          "DateString": "07.07.2018",
+          "Location": "WP AutomationML Edition 2.pdf"
+        }
+      ],
+      "DateString": "21.07.2018",
+      "Location": "https://www.automationml.org/wp-content/uploads/2021/04/Whitepaper-AutomationML-Edition-2.1.zip"
+    }, 
+    {
+      "Category": "AMLBook",
+      "Name": "A Practical Guide - Chapter 1",
+      "Description": "What is AutomationML.",
+      "Parts": [
+        {
+          "CAEXVersion": "1.0",
+          "Name": "more",
+          "PartType": "AdditionalDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/about-automationml/publications/amlbook/a-practical-guide/chapter-1-what-is-automationml/"
+        }
+      ],
+      "DateString": "01.01.0001",
+      "Location": null
+    },
+    {
+      "Category": "AMLBook",
+      "Name": "A Practical Guide - Chapter 2",
+      "Description": "The CAEX and AutomationML Guide.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 3.0",
+          "Name": "Example Models, explaining CAEX Basic concepts",
+          "PartType": "AMLDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/07/Chapter-2-Example-Models-1.1.aml_.zip"
+        },
+      	{
+          "CAEXVersion": "CAEX 3.0",
+          "Name": "Example AML File, referencing External Documents",
+          "PartType": "AMLDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/07/ExternalDocumentReferenceAML2.1.aml_.zip"
+        },
+        {
+          "CAEXVersion": "CAEX 3.0",
+          "Name": "more",
+          "PartType": "AdditionalDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/about-automationml/publications/amlbook/a-practical-guide/chapter-2-the-caex-and-automationml-guide/"
+        }
+      ],
+      "DateString": "01.01.0001",
+      "Location": null
+    },
+    {
+      "Category": "AMLBook",
+      "Name": "A Practical Guide - Chapter 3",
+      "Description": "Modelling of Geometry and Kinematics.",
+      "Parts": [
+        {
+          "CAEXVersion": "1.0",
+          "Name": "more",
+          "PartType": "AdditionalDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/about-automationml/publications/amlbook/a-practical-guide/chapter-3-geometry/"
+        }
+      ],
+      "DateString": "01.01.0001",
+      "Location": null
+    },
+    {
+      "Category": "AMLBook",
+      "Name": "A Practical Guide - Chapter 4",
+      "Description": "Modelling of Behaviour.",
+      "Parts": [
+      	{
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "Example AML File, defining interlocking and drive behavior.",
+          "PartType": "AMLDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/06/Chapter-4-supplementary-content-V1.0.zip"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "more",
+          "PartType": "AdditionalDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/about-automationml/publications/amlbook/a-practical-guide/chapter-4-modelling-of-behaviour/"
+        }
+      ],
+      "DateString": "16.07.2021",
+      "Location": null
+    },
+    {
+      "Category": "AMLBook",
+      "Name": "A Practical Guide - Chapter 5",
+      "Description": "The AML Editor.",
+      "Parts": [
+        {
+          "CAEXVersion": "1.0",
+          "Name": "more",
+          "PartType": "AdditionalDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/about-automationml/publications/amlbook/a-practical-guide/chapter-5-the-automationml-editor/"
+        }
+      ],
+      "DateString": "01.01.0001",
+      "Location": null
+    },
+    {
+      "Category": "AMLBook",
+      "Name": "The Industrial Cookbook - Chapter 7",
+      "Description": "AML domain model for VDI 3697-1: Data exchange between CAE and PCS.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "Data exchange between CAE and PCS",
+          "PartType": "AMLDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/07/CookBook-VDI-3697-1_V1.0.zip"
+        }
+      ],
+      "DateString": "01.01.0001",
+      "Location": null
+    },
+    {
+      "Category": "AMLBook",
+      "Name": "The Industrial Cookbook - Chapter 8",
+      "Description": "AML domain model for VDI 3697-2: Data Exchange between CAE systems.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "Data Exchange between CAE systems.",
+          "PartType": "AMLDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook-VDI3697-2_V1.0.zip"
+        }
+      ],
+      "DateString": "01.01.0001",
+      "Location": null
+    },
+    {
+      "Category": "AMLBook",
+      "Name": "The Industrial Cookbook - Chapter 9",
+      "Description": "MTP – Automation Engineering of Modular Process Plants.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "MTP AML Document",
+          "PartType": "AMLDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook-MTP_V1.0.zip"
+        }
+      ],
+      "DateString": "01.01.0001",
+      "Location": null
+    },
+    {
+      "Category": "AMLBook",
+      "Name": "The Industrial Cookbook - Chapter 10",
+      "Description": "AML domain model for System Control Diagrams.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "more",
+          "PartType": "AMLDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook-SCD_Domain_Model.zip"
+        }
+      ],
+      "DateString": "01.01.0001",
+      "Location": null
+    },
+    {
+      "Category": "AMLBook",
+      "Name": "The Industrial Cookbook - Chapter 11",
+      "Description": "Data exchange between ECAD and PLC tools – AR APC.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "Partner and tools",
+          "PartType": "AdditionalDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/about-automationml/publications/amlbook/automationml-the-industrial-cookbook/part-ii-the-industrial-cookbook/arapc_tools_and_partners/"
+        }
+      ],
+      "DateString": "01.01.0001",
+      "Location": null
+    },
+    {
+      "Category": "AMLBook",
+      "Name": "The Industrial Cookbook - Chapter 12",
+      "Description": "Modelling of Drive Configurations – AR DRIVES MCAD.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "DriveConfigurationsLibrary with examples",
+          "PartType": "AMLDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook-DriveConfigurationsLibrary_v1_0_0-incl-Examples_V1.0.zip"
+        }
+      ],
+      "DateString": "01.01.0001",
+      "Location": null
+    },
+    {
+      "Category": "AMLBook",
+      "Name": "The Industrial Cookbook - Chapter 13",
+      "Description": "AML domain model for material handling.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "Material handling libraries and examples",
+          "PartType": "AMLDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook-MaterialHandling_V1.0.zip"
+        }
+      ],
+      "DateString": "01.01.0001",
+      "Location": null
+    },
+    {
+      "Category": "AMLBook",
+      "Name": "The Industrial Cookbook - Chapter 14",
+      "Description": "The AutomationML Component.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "The AutomationML Component example models",
+          "PartType": "AMLDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook-AutomationMLComponent_V1.0.zip"
+        }
+      ],
+      "DateString": "01.01.0001",
+      "Location": null
+    },
+    {
+      "Category": "AMLBook",
+      "Name": "The Industrial Cookbook - Chapter 15",
+      "Description": "AML domain model for Electric Interfaces.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "Libraries and examples",
+          "PartType": "AMLDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/06/AMLCookBook-Electricinterfaces_V1.0.zip"
+        }
+      ],
+      "DateString": "01.01.0001",
+      "Location": null
+    },
+    {
+      "Category": "AMLBook",
+      "Name": "The Industrial Cookbook - Chapter 16",
+      "Description": "AutomationML Component Checker.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "Component Checker Website and Application",
+          "PartType": "AdditionalDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://amlcc.tarakos.de/"
+        }
+      ],
+      "DateString": "01.01.0001",
+      "Location": null
+    },
+    {
+      "Category": "AMLBook",
+      "Name": "The Industrial Cookbook - Chapter 17",
+      "Description": "AML domain model for communication systems.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "Library with examples",
+          "PartType": "AMLDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook-Communication_V1.0.zip"
+        }
+      ],
+      "DateString": "01.01.0001",
+      "Location": null
+    },
+    {
+      "Category": "AMLBook",
+      "Name": "The Industrial Cookbook - Chapter 18",
+      "Description": "Modelling OPC UA with AutomationML.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "Modeling example",
+          "PartType": "AMLDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook-OPC_UA_Example_V1.0.zip"
+        }
+      ],
+      "DateString": "01.01.0001",
+      "Location": null
+    },
+    {
+      "Category": "AMLBook",
+      "Name": "The Industrial Cookbook - Chapter 19",
+      "Description": "Serialization of the Asset Administration Shell by AutomationML.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "Modeling examples",
+          "PartType": "AMLDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook_AASModelling_V1.0.zip"
+        }
+      ],
+      "DateString": "01.01.0001",
+      "Location": null
+    },
+    {
+      "Category": "AMLBook",
+      "Name": "The Industrial Cookbook - Chapter 22",
+      "Description": "AutomationML and eCl@ss Integration.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "eCl@ss integration examples",
+          "PartType": "AMLDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook_eClassIntegration_V1.0.zip"
+        }
+      ],
+      "DateString": "01.01.0001",
+      "Location": null
+    },
+    {
+      "Category": "AMLBook",
+      "Name": "The Industrial Cookbook - Chapter 23",
+      "Description": "Semantic and Pragmatic Interoperability Mappings.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "AML documents defining the mapping steps.",
+          "PartType": "AMLDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook-SemanticAndPragmaticInteroperabilityMappings_V1.0.zip"
+        }
+      ],
+      "DateString": "01.01.0001",
+      "Location": null
+    },
+    {
+      "Category": "AMLBook",
+      "Name": "The Industrial Cookbook - Chapter 24",
+      "Description": "Extended RoleClass libraries.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "Extended Roleclass libraries",
+          "PartType": "AMLDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook-ExtendedRoleClassLibraries_V1.0.zip"
+        }
+      ],
+      "DateString": "01.01.0001",
+      "Location": null
+    },
+    {
+      "Category": "AMLBook",
+      "Name": "The Industrial Cookbook - Chapter 25",
+      "Description": "AML-based Enterprise Control System Integration by IEC 62264.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "libraries and examples",
+          "PartType": "AMLDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/06/Cookbook-IEC62264_V1.0.zip"
+        }
+      ],
+      "DateString": "01.01.0001",
+      "Location": null
+    },
+    {
+      "Category": "AMLBook",
+      "Name": "The Industrial Cookbook - Chapter 28",
+      "Description": "Concept to refine and computationally evaluate PPR information in AutomationML.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "AML file for the extended Pick and Place Unit, includes products, processes, and resources",
+          "PartType": "AMLDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://raw.githubusercontent.com/x-PPU/xPPU-AML-PPR/master/xPPU.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "GitHub repository",
+          "PartType": "AdditionalDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://github.com/x-PPU/xPPU-AML-PPR/"
+        }
+      ],
+      "DateString": "01.01.0001",
+      "Location": null
+    },
+    {
+      "Category": "AMLBook",
+      "Name": "The Industrial Cookbook - Chapter 30",
+      "Description": "Optimizing the engineering of technical energy management system.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "Example models",
+          "PartType": "AMLDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook-EnergyManagementSystems_V1.0.zip"
+        }
+      ],
+      "DateString": "01.01.0001",
+      "Location": null
+    },
+    {
+      "Category": "AMLBook",
+      "Name": "The Industrial Cookbook - Chapter 31",
+      "Description": "Skill-Based Engineering of Automation Systems: Use Case and Evaluation.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "Skill-Based Engineering model",
+          "PartType": "AMLDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook-SkillBasedEngineering_V1.0.zip"
+        }
+      ],
+      "DateString": "01.01.0001",
+      "Location": null
+    },
+    {
+      "Category": "AMLBook",
+      "Name": "The Industrial Cookbook - Chapter 32",
+      "Description": "Engineering Data Logistics based on AML.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "modeling approaches",
+          "PartType": "AMLDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook-EngineeringDataLogisticsV1.0.zip"
+        }
+      ],
+      "DateString": "01.01.0001",
+      "Location": null
+    },
+    {
+      "Category": "AMLBook",
+      "Name": "The Industrial Cookbook - Chapter 33",
+      "Description": "Energy optimization during virtual commissioning.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "modeling approaches",
+          "PartType": "AMLDocument",
+          "DateString": "16.07.2021",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/06/CookBook_EnergyOptimizationVirtualCommissioning_V1.0.zip"
+        }
+      ],
+      "DateString": "01.01.0001",
+      "Location": null
+    },
+    {
+      "Category": "Whitepaper",
+      "Name": "Part 2: Role class libraries",
+      "Description": "Libraries for specific application domains.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "RoleClass library for batch manufacturing industry",
+          "PartType": "AMLLibrary",
+          "DateString": "01.01.0001",
+          "Location": "AutomationMLBMIRoleClassLib_V1.1.0.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "RoleClass library for continuous manufacturing industry",
+          "PartType": "AMLLibrary",
+          "DateString": "01.01.0001",
+          "Location": "AutomationMLCMIRoleClassLib_V1.1.0"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "RoleClass library for control systems",
+          "PartType": "AMLLibrary",
+          "DateString": "01.01.0001",
+          "Location": "AutomationMLCSRoleClassLib_V2.3.0.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "RoleClass library for discrete manufacturing industry",
+          "PartType": "AMLLibrary",
+          "DateString": "01.01.0001",
+          "Location": "AutomationMLDMIRoleClassLib_V2.4.0.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "Extended RoleClass library for discrete manufacturing industry",
+          "PartType": "AMLLibrary",
+          "DateString": "01.01.0001",
+          "Location": "AutomationMLExtendedRoleClassLib_V2.7.0.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "One industry-specific library in the context of food and beverage",
+          "PartType": "AMLLibrary",
+          "DateString": "01.01.0001",
+          "Location": "UserDefinedRoleClassLibFoodAndBeverage_V2.0.0.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "One association-specific library from the VDMA",
+          "PartType": "AMLLibrary",
+          "DateString": "01.01.0001",
+          "Location": "UserDefinedRoleClassLibRedBookVDMA_V2.1.0.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "StandardLibrary related to the process industry according to the format PandIX",
+          "PartType": "AMLLibrary",
+          "DateString": "01.01.0001",
+          "Location": "UserDefinedInterfaceClassLibPandix_V1.1.0.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "StandardLibrary related to the process industry according to the format PandIX PPE",
+          "PartType": "AMLLibrary",
+          "DateString": "01.01.0001",
+          "Location": "UserDefinedRoleClassLibPandixPPE_V1.0.2.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "StandardLibrary related to the process industry according to the format PandIX PCE",
+          "PartType": "AMLLibrary",
+          "DateString": "01.01.0001",
+          "Location": "UserDefinedRoleClassLibPandixPCE_V1.1.1.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "Company specific structure",
+          "PartType": "AMLLibrary",
+          "DateString": "01.01.0001",
+          "Location": "UserDefinedRoleClassLibCompanySpecificStructure_V2.0.1.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "Whitepaper AutomationML Part 2 – Role class libraries",
+          "PartType": "AdditionalDocument",
+          "DateString": "07.07.2014",
+          "Location": "AutomationMLWhitepaperPart 2-RoleClassLibraries_V2.0.0.pdf"
+        }
+      ],
+      "DateString": "16.12.2014",
+      "Location": "https://www.automationml.org/wp-content/uploads/2021/06/AML_Whitepaper_RoleClassLibraries_V2.0.0.zip"
+    },
+    {
+      "Category": "Whitepaper",
+      "Name": "Part 3: Geometry and Kinematics",
+      "Description": "Standard libraries supporting geometry modeling.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "Basic RoleClass library including classes for geometric modeling",
+          "PartType": "AMLLibrary",
+          "DateString": "01.01.0001",
+          "Location": "AutomationMLBaseRoleClassLib_V2.2.1.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "Basic InterfaceClass library including classes for geometric modeling",
+          "PartType": "AMLLibrary",
+          "DateString": "01.01.0001",
+          "Location": "AutomationMLInterfaceClassLib_V2.2.1.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "Whitepaper AutomationML Part 3 – Geometry and Kinematics",
+          "PartType": "AdditionalDocument",
+          "DateString": "07.07.2017",
+          "Location": "AutomationML_WhitepaperPart3-GeometryKinematics_V2.0.0.pdf"
+        }
+      ],
+      "DateString": "01.01.2017",
+      "Location": "https://www.automationml.org/wp-content/uploads/2021/06/AML_Whitepaper_GeometryKinematics_V2.0.0.zip"
+    },
+    {
+      "Category": "Whitepaper",
+      "Name": "Part 4: AutomationML Logic",
+      "Description": "Libraries supporting logic modeling.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "Basic RoleClass library including classes for logic modeling",
+          "PartType": "AMLLibrary",
+          "DateString": "01.01.0001",
+          "Location": "AutomationMLBaseRoleClassLib_V2.2.2.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "Basic InterfaceClass library including classes for logic modeling",
+          "PartType": "AMLLibrary",
+          "DateString": "01.01.0001",
+          "Location": "AutomationMLInterfaceClassLib_V2.2.2.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "Whitepaper AutomationML Part 4 – Logic",
+          "PartType": "AdditionalDocument",
+          "DateString": "07.07.2017",
+          "Location": "AML_Whitepaper_Logic_V1.5.0.pdf"
+        }
+      ],
+      "DateString": "24.03.2017",
+      "Location": "https://www.automationml.org/wp-content/uploads/2021/06/AML_Whitepaper_Logic_V1.5.0.zip"
+    },
+    {
+      "Category": "Whitepaper",
+      "Name": "Part 5: Communication",
+      "Description": "Whitepaper and Libraries supporting modeling of comminucation systems.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "InterfaceClass library for AutomationML Communication Modeling",
+          "PartType": "AMLLibrary",
+          "DateString": "1.09.2014",
+          "Location": "CommunicationInterfaceClassLib_V1.0.0.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "RoleClass library for AutomationML Communication Modeling",
+          "PartType": "AMLLibrary",
+          "DateString": "1.09.2014",
+          "Location": "CommunicationRoleClassLib_V1.0.1.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "Whitepaper AutomationML Part 5 Communication",
+          "PartType": "AdditionalDocument",
+          "DateString": "1.09.2014",
+          "Location": "White_paper_AutomationML_Communication_V1.0.0.pdf"
+        }
+      ],
+      "DateString": "1.09.2014",
+      "Location": "https://www.automationml.org/wp-content/uploads/2021/06/WP_Communication_V1.0.0.zip"
+    },
+	{
+      "Category": "Whitepaper",
+      "Name": "Part6: AutomationML Component",
+      "Description": "AutomationML standard libraries on AutomationML Components.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "RoleClass libraries and InterfaceClass libraries for AutomationML Component Modeling",
+          "PartType": "AMLLibrary",
+          "DateString": "19.10.2020",
+          "Location": "AutomationML_Part_6_WP_Compo_v1.1.0.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15, WP Compo V1.1.0",
+          "Name": "Whitepaper AutomationML Part 6: AutomationML Component",
+          "PartType": "AdditionalDocument",
+          "DateString": "19.10.2020",
+          "Location": "AutomationML_Part_6_WP_Compo_v1.1.0.pdf"
+        }
+      ],
+      "DateString": "19.10.2020",
+      "Location": "https://www.automationml.org/wp-content/uploads/2021/06/WP6_AutomationML_Compo_V1.1.0.zip"
+    },
+    {
+      "Category": "BestPractice",
+      "Name": "Regular Expressions",
+      "Description": "Utilization of regular expressions to constrain the value range of attributes in AutomationML.",
+      "Parts": [       
+        {
+          "CAEXVersion": "CAEX 2.15, BPR CstrRegExp, V 1.0.0",
+          "Name": "Constraints with regular expressions in AutomationML",
+          "PartType": "AdditionalDocument",
+          "DateString": "21.10.2014",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/06/BPR_001E_Constraint_RegEx_Oct2014.pdf"
+        }
+      ],
+      "DateString": "01.10.2014",
+      "Location": ""
+    },
+    {
+      "Category": "BestPractice",
+      "Name": "Multilingual expressions in AutomationML.",
+      "Description": "Assignment of different texts for different languages to attributes to model multilingual engineering information.",
+      "Parts": [        
+        {
+          "CAEXVersion": "CAEX 2.15, BPR MlingExp, V 1.0.0",
+          "Name": "Multilingual expressions in AutomationML",
+          "PartType": "AdditionalDocument",
+          "DateString": "01.03.2017",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/06/BPR_002E_Multilingual_Expressions_Oct2014.pdf"
+        }
+      ],
+      "DateString": "01.03.2017",
+      "Location": ""
+    },       
+    {
+      "Category": "BestPractice",
+      "Name": "CC-Link related networks and their devices in AutomationML.",
+      "Description": "In the first version the document it is defined, how to integrate a CSP+ file (Device description file of a CCink Family-compatible device) and a CSP+ for Machine file (Description file of a machine) by reference.",
+      "Parts": [        
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "CC-Link Libraries",
+          "PartType": "AMLLibrary",
+          "DateString": "01.03.2021",
+          "Location": "BPR_CC-Link_Libraries_V1.0.0.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "CC-Link Example CompositeComponent",
+          "PartType": "AMLContainer",
+          "DateString": "01.03.2021",
+          "Location": "BPR_CC-Link_Example_Component_V1.0.0.amlx"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "CC-Link Example CompositeComponent",
+          "PartType": "AMLContainer",
+          "DateString": "01.03.2021",
+          "Location": "BPR_CC-Link_Example_CompositeComponent_V1.0.0.amlx"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15",
+          "Name": "CC-Link in AutomationML",
+          "PartType": "AdditionalDocument",
+          "DateString": "01.03.2021",
+          "Location": "BPR_CC-Link_V1.0.0.pdf"
+        }
+      ],
+      "DateString": "01.03.2021",
+      "Location": "https://www.automationml.org/wp-content/uploads/2021/06/BPR-CC-Link.zip"
+    },     
+    {
+      "Category": "BestPractice",
+      "Name": "External Data Reference",
+      "Description": "Referencing additional descriptive documents out of AutomationML.",
+      "Parts": [  
+        {
+          "CAEXVersion": "CAEX 2.15, BPR EDRef, V 1.0.0",
+          "Name": "External data reference in AutomationML Example",
+          "PartType": "AMLDocument",
+          "DateString": "12.05.2016",
+          "Location": "BPR_005E_ExternalDataReference_Jul2016/BPR_005E_ExternalDataReference_Examples_Jul2016.aml"
+        },      
+        {
+          "CAEXVersion": "CAEX 2.15, BPR EDRef, V 1.0.0",
+          "Name": "External data reference in AutomationML.",
+          "PartType": "AdditionalDocument",
+          "DateString": "31.07.2016",
+          "Location": "BPR_005E_ExternalDataReference_Jul2016/BPR_005E_ExternalDataReference_Jul2016.pdf"
+        }
+      ],
+      "DateString": "31.07.2016",
+      "Location": "https://www.automationml.org/wp-content/uploads/2021/06/BPR_005E_ExternalDataReference_Jul2016.zip"
+    },
+    {
+      "Category": "BestPractice",
+      "Name": "Data Variable",
+      "Description": "The concept of DataVariable gives the possibility to create links from AutomationML to “online” data/communication, e.g. OPC UA or CANopen. The  DataVariable concept serves for describing information respectively configuration data to set up communication.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15, BPR DatVar, V 1.0.0",
+          "Name": "Data Variable Example",
+          "PartType": "AMLDocument",
+          "DateString": "12.05.2017",
+          "Location": "I40_UA-AML-Example.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15, BPR DatVar, V 1.0.0",
+          "Name": "Data variable Library",
+          "PartType": "AMLLibrary",
+          "DateString": "12.05.2017",
+          "Location": "2017-02-20_DataVariable.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15, BPR DatVar, V 1.0.0",
+          "Name": "Data variable in AutomationML.",
+          "PartType": "AdditionalDocument",
+          "DateString": "12.05.2017",
+          "Location": "BPR 007E_BPR_DataVariable_V1.0.0.pdf"
+        }
+      ],
+      "DateString": "12.05.2017",
+      "Location": "https://www.automationml.org/wp-content/uploads/2021/06/BPR_007E_BPR_DataVariable_V1.0.0.zip"
+    },
+    {
+      "Category": "BestPractice",
+      "Name": "Reference Designation",
+      "Description": "A recommended modelling method for reference designations following IEC 81346-1:2009-07. It describes the use of role classes and attributes as well as the structures to be considered within the instance hierarchy of an AutomationML project.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15, BPR RefDes, V 1.0.0",
+          "Name": "Modelling of Reference Designations",
+          "PartType": "AdditionalDocument",
+          "DateString": "07.09.2017",
+          "Location": "BPR008E_RefDes_V1.0.0.pdf"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15, BPR RefDes, V 1.0.0",
+          "Name": "Modelling of Reference Designations Example",
+          "PartType": "AMLDocument",
+          "DateString": "07.09.2017",
+          "Location": "Example_ReferenceDesignation_170628.aml"
+        }
+      ],
+      "DateString": "07.09.2017",
+      "Location": "https://www.automationml.org/wp-content/uploads/2021/06/BPR_009E_RefDes_V1.0.0.zip"
+    },    
+    {
+      "Category": "BestPractice",
+      "Name": "List Attributes",
+      "Description": "A Recommendation how to model data types of lists in AutomationML using attributes.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15, BPR MLA, V 1.0.0",
+          "Name": "Modelling of List Attributes in AutomationML",
+          "PartType": "AdditionalDocument",
+          "DateString": "10.01.2016",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/06/BPR_004E_List_Attributes_Jan2016.pdf"
+        }
+      ],
+      "DateString": "10.01.2016",
+      "Location": ""
+    },
+    {
+      "Category": "BestPractice",
+      "Name": "Units in AutomationML",
+      "Description": "A Recommendation how to model units of attributes",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15, BPR Units, V1.0.0",
+          "Name": "Units in AutomationML",
+          "PartType": "AdditionalDocument",
+          "DateString": "01.08.2018",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/06/BPR_Units.pdf"
+        }
+      ],
+      "DateString": "01.08.2018",
+      "Location": ""
+    },
+    {
+      "Category": "BestPractice",
+      "Name": "Naming Documents and Versions",
+      "Description": "A recommendation, how to name the used recommendations and their versions within AutomationML so that all involved tools interpret the data in the same way.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15, BPR RefVersion, V 1.0.0",
+          "Name": "Naming Documents and Versions",
+          "PartType": "AdditionalDocument",
+          "DateString": "01.12.2016",
+          "Location": "https://www.automationml.org/wp-content/uploads/2021/06/BPR_006E_Naming_Documents_and_Versions_Dec2016.pdf"
+        }
+      ],
+      "DateString": "01.12.2016",
+      "Location": ""
+    },
+    {
+      "Category": "ApplicationRecommendation",
+      "Name": "Drive Configurations (M-CAD aspects)",
+      "Description": "This application recommendation describes the workflows and the method of modellingmechanical aspects of drive configurations using  AutomationML. It looks at the use case of capacity selection however it is not limited to only this use case.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15, AR DRIVE MCAD, V1.0.0",
+          "Name": "AutomationML Libraries",
+          "PartType": "AMLLibrary",
+          "DateString": "12.04.2020",
+          "Location": "DriveConfigurationsLibrary_v1_0_0.aml"
+        }, 
+        {
+          "CAEXVersion": "CAEX 2.15, AR DRIVE MCAD, V1.0.0",
+          "Name": "Drive Configurations",
+          "PartType": "AdditionalDocument",
+          "DateString": "12.04.2020",
+          "Location": "AR_Drive Configurations_v1_0_0.pdf"
+        }, 
+        {
+          "CAEXVersion": "CAEX 2.15, AR DRIVE MCAD, V1.0.0",
+          "Name": "AutomationML Libraries with Example",
+          "PartType": "AMLDocument",
+          "DateString": "12.04.2020",
+          "Location": "DriveConfigurationsLibrary_v1_0_0 - incl Examples.aml"
+        } 
+      ],
+      "DateString": "12.04.2020",
+      "Location": "https://www.automationml.org/wp-content/uploads/2021/06/AR-Drive-Configurations-v1_0_0.zip"
+    },
+    {
+      "Category": "ApplicationRecommendation",
+      "Name": "Drive for Automation Project Configuration",
+      "Description": "With this application recommendation, we extend the configuration information of the AR 'Automation Project Configuration AR APC V 1.2.0' by the definition of a drive.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15, ARE APC Drive, V 1.2.0",
+          "Name": "AutomationML Libraries",
+          "PartType": "AMLLibrary",
+          "DateString": "12.04.2020",
+          "Location": "ARE APC Drive ClassLibs V1_2_0.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15, ARE APC Drive, V 1.2.0",
+          "Name": "Drive for Automation Project Configuration",
+          "PartType": "AdditionalDocument",
+          "DateString": "12.04.2020",
+          "Location": "ARE APC Drive V_1_2_0.pdf"
+        }
+      ],
+      "DateString": "12.04.2020",
+      "Location": "https://www.automationml.org/wp-content/uploads/2021/06/ARE-APC-Drive.zip"
+    },
+    {
+      "Category": "ApplicationRecommendation",
+      "Name": "Automation Project Configuration ",
+      "Description": "This application recommendation proposes a modelling method of automation project configuration data by means of the engineering data format AutomationML.",
+      "Parts": [       
+        {
+          "CAEXVersion": "CAEX 2.15, AR APC, V 1.2.1",
+          "Name": "AutomationML Libraries",
+          "PartType": "AMLLibrary",
+          "DateString": "05.09.2020",
+          "Location": "AR APC AllClassLibs V_1_2_1.aml"         
+        },
+        {
+          "CAEXVersion": "CAEX 2.15, AR APC, V 1.2.1",
+          "Name": "Automation Project Configuration",
+          "PartType": "AdditionalDocument",
+          "DateString": "05.09.2020",
+          "Location": "AR APC V_1_2_1.pdf"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15, AR APC, V 1.2.0",
+          "Name": "ASi for Automation Project Configuration",
+          "PartType": "AdditionalDocument",
+          "DateString": "01.04.2020",
+          "Location": "ARE APC ASi V_1_2_0.pdf"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15, AR APC, V 1.2.0",
+          "Name": "DRIVE-CLiQ for Automation Project Configuration",
+          "PartType": "AdditionalDocument",
+          "DateString": "01.04.2020",
+          "Location": "ARE APC Drive_Cliq V_1_2_0.pdf"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15, AR APC, V 1.2.1",
+          "Name": "Ethernet for Automation Project Configuration",
+          "PartType": "AdditionalDocument",
+          "DateString": "01.04.2020",
+          "Location": "ARE APC Ethernet V_1_2_1.pdf"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15, AR APC, V 1.2.0",
+          "Name": "Extension Rack for Automation Project Configuration",
+          "PartType": "AdditionalDocument",
+          "DateString": "01.04.2020",
+          "Location": "ARE APC Extension_Rack V_1_2_0.pdf"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15, AR APC, V 1.2.0",
+          "Name": "MPI for Automation Project Configuration",
+          "PartType": "AdditionalDocument",
+          "DateString": "01.04.2020",
+          "Location": "ARE APC Mpi V_1_2_0.pdf"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15, AR APC, V 1.2.1",
+          "Name": "IO-Link for Automation Project Configuration",
+          "PartType": "AdditionalDocument",
+          "DateString": "05.09.2020",
+          "Location": "ARE APC IO-Link V_1_2_1.pdf"
+        },		
+        {
+          "CAEXVersion": "CAEX 2.15, AR APC, V 1.2.0",
+          "Name": "Profibus for Automation Project Configuration",
+          "PartType": "AdditionalDocument",
+          "DateString": "01.04.2020",
+          "Location": "ARE APC Profibus V_1_2_0.pdf"
+        }
+      ],
+      "DateString": "05.09.2020",
+      "Location": "https://www.automationml.org/wp-content/uploads/2021/07/AR-APC-1_2_1.zip"
+    },
+    {
+      "Category": "ApplicationRecommendation",
+      "Name": "Provisioning for MES and ERP",
+      "Description": "This application recommendation proposes a modelling method to link objects from AML to elements of IEC 62264, a standard for data exchange between Enterprise Resource Planning (ERP) systems and Manufacturing Execution Systems (MES).",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15, AR MES-ERP, V 2.0.0",
+          "Name": "Proposed AutomationML libraries for B2MML",
+          "PartType": "AMLLibrary",
+          "DateString": "07.11.2018",
+          "Location": "AutomationMLB2MMLLib.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15, AR MES-ERP, V 2.0.0",
+          "Name": "Proposed AutomationML libraries for IEC 62264",
+          "PartType": "AMLLibrary",
+          "DateString": "07.11.2018",
+          "Location": "AutomationMLIEC62264Lib.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15, AR MES-ERP, V 1.0.0",
+          "Name": "Provisioning for MES and ERP - Support for IEC 62264 and B2MML",
+          "PartType": "AdditionalDocument",
+          "DateString": "07.11.2018",
+          "Location": "AR_Provisioning_for_MES_and_ERP_Edition_2.pdf"
+        }
+      ],
+      "DateString": "07.11.2018",
+      "Location": "https://www.automationml.org/wp-content/uploads/2021/06/AR-Provisioning-for-MES-and-ERP-Edition-2.zip"
+    },
+    {
+      "Category": "ApplicationRecommendation",
+      "Name": "Modelling of Material Handling in AutomationML",
+      "Description": "This application recommendation proposes a modelling method for material handling and material flow systems.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15, V 1.0.0",
+          "Name": "Material Handlin libraries",
+          "PartType": "AMLLibrary",
+          "DateString": "01.03.2020",
+          "Location": "AR_Modelling of Material Handling_MaterialHandlingLibraries.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15, V 1.0.0",
+          "Name": "A First level example",
+          "PartType": "AMLDocument",
+          "DateString": "01.03.2020",
+          "Location": "AR_Modelling of Material Handling_FirstLevelExample.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15, V 1.0.0",
+          "Name": "A Second level example",
+          "PartType": "AMLDocument",
+          "DateString": "01.03.2020",
+          "Location": "AR_Modelling of Material Handling_SecondLevelExample.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15, V 1.0.0",
+          "Name": "Provisioning for MES and ERP - Support for IEC 62264 and B2MML",
+          "PartType": "AdditionalDocument",
+          "DateString": "01.03.2020",
+          "Location": "AR_Modelling of Material Handling in AutomationML_v1_0_0.pdf"
+        }
+      ],
+      "DateString": "01.03.2020",
+      "Location": "https://www.automationml.org/wp-content/uploads/2021/06/AR_Modelling-of-Material-Handling-in-AutomationML_v1_0_0.zip"
+    },
+    {
+      "Category": "ApplicationRecommendation",
+      "Name": "Asset Administration Shell Representation",
+      "Description": "This application recommendation provides a modelling methodology for representing the information content of an asset administration shell according to Plattform Industrie 4.0 requirements.",
+      "Parts": [
+        {
+          "CAEXVersion": "CAEX 2.15, AR AAS, V 1.0.0",
+          "Name": "Asset Administration Shell library",
+          "PartType": "AMLLibrary",
+          "DateString": "25.11.2019",
+          "Location": "AssetAdministrationShellLib.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15, AR AAS, V 1.0.0",
+          "Name": "Asset Administration Shell (all) library",
+          "PartType": "AMLLibrary",
+          "DateString": "25.11.2019",
+          "Location": "AssetAdministrationShellLib  - Full.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15, AR AAS, V 1.0.0",
+          "Name": "Plattform Industrie 4.0 Unified AAS Example",
+          "PartType": "AMLDocument",
+          "DateString": "25.11.2019",
+          "Location": "UnifiedAASExampleVWSiD2.0.aml"
+        },
+        {
+          "CAEXVersion": "CAEX 2.15, AR AAS, V 1.0.0",
+          "Name": "Asset Administration Shell Representation",
+          "PartType": "AdditionalDocument",
+          "DateString": "25.11.2019",
+          "Location": "AR_004E - Assset Administration Shell Representation V1_0_0.pdf"
+        }
+      ],
+      "DateString": "25.11.2019",
+      "Location": "https://www.automationml.org/wp-content/uploads/2021/06/Asset-Administration-Shell-Representation-V1_0_0.zip"
+    }
+  ]
+}
