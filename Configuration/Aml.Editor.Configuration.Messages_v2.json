@@ -47,8 +47,16 @@
       "More": "AutomationML provides sample implementations for basic technologies and methods that can be used to work with XML-based data models. ",
       "Links": [        
         {
+      "Address": "https://www.automationml.org/wp-content/uploads/2021/06/AML-Cookbook-Chapter3-AmlEngineTestProject-V1.0.zip",
+      "LinkTarget": "Example code"
+        },
+        {
+      "Address": "https://github.com/AutomationML/AMLEngine2.1/",
+      "LinkTarget": "Git repository of the AMLEngine with sample code"
+        },
+        {
       "Address": "https://www.automationml.org/about-automationml/publications/amlbook/automationml-the-industrial-cookbook/part-1-software-development/",
-      "LinkTarget": "Example project"
+      "LinkTarget": "AutomationML cook book chapter about AML software development."
         }
       ],
       "DateString": "16.07.2021"
@@ -59,8 +67,12 @@
       "More": "A guidance for programming AutomationML export and import software interfaces. The importing software interface (Importer) therefore needs an assignment strategy and a mapping rule for the semantically unique transformation of the AutomationML object into the target engineering tool in order to ensure a lossless data transfer. By means of a basic software architecture we show how the transformation works and describe which concepts and strategies can be used to successfully implement export/import interfaces. ",
       "Links": [        
         {
+      "Address": "https://github.com/AutomationML/AMLImportExport/",
+      "LinkTarget": "Git repository: AutomationML example import and export implementations."
+        },
+        {
       "Address": "https://www.automationml.org/about-automationml/publications/amlbook/automationml-the-industrial-cookbook/part-1-software-development/",
-      "LinkTarget": "AutomationML example import and export implementations."
+      "LinkTarget": "AutomationML cook book chapter about AML software development."
         }
       ],
       "DateString": "16.07.2021"
