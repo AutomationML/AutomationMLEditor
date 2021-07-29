@@ -1,5 +1,23 @@
 ﻿## AutomationML Editor
 
+### Version 5.6.0
+
+##### Bug Fixes
+
+- Fixed an exception in AML Editor 5.5.3 when exchanging root document in AMLContainer.
+- Fixed an issue, when trying to add an AML file as “additional Content”. One could select
+in the next dialog that this is a “library”. But then the tool refuses to add the file with some strange error message.
+- It is possible now to edit the URL of a content part (like /sub/content.aml) to place content in a subfolder of a container.
+
+##### Changes
+
+- The folder browser dialog has been exchanged.
+
+
+##### Updates
+- AutomationML editor uses **Aml.Engine v1.6.2**
+ 
+
 ### Version 5.5.6
 
 ##### Changes
