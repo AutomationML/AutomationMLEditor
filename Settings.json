@@ -8,5 +8,24 @@
 			"Page": "https://www.automationml.org/download-archive/"
 		}
 	],
-	"ListAttributes": "https://www.automationml.org/wp-content/uploads/2021/06/BPR_004E_List_Attributes_Jan2016.pdf"
+	"ListAttributes": "https://www.automationml.org/wp-content/uploads/2021/06/BPR_004E_List_Attributes_Jan2016.pdf",
+	"CCTesting" : "/Home/Testing",
+	"AMLHelpPages":   
+	{
+		"Editor Tutorial video (german-outdated)": "https://www.youtube.com/watch?v=T94Aa3XCb_M&t=302s/", 
+		"Editor Tutorial video (english-outdated)": "https://youtu.be/YBCVM3puKZU"
+	},    
+    "AMLWebPages":    
+	{
+		"AutomationML Home": "https://www.automationml.org/", 
+		"AutomationML on Nuget": "https://www.nuget.org/profiles/AutomationML",
+		"AutomationML .NET repositories on GitHub": "https://github.com/AutomationML",
+		"AutomationML Wikipedia": "https://de.wikipedia.org/wiki/AutomationML", 
+		"AutomationML Component Checker": "https://amlcc.tarakos.de/Identity/Account/Login?ReturnUrl=%2F",
+		"CAEX MDE Workbench (EMF)": "https://github.com/amlModeling/caex-workbench",			
+		"CAEX IEC Norm": "https://webstore.iec.ch/publication/25442",			
+		"COLLADA": "https://www.khronos.org/collada/wiki/Main_page",			
+		"PLCopen": "https://www.plcopen.org"				
+	}
+    
 }

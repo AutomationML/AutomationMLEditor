@@ -19,6 +19,18 @@
     },
     {
       "Category": "DeveloperNews",
+      "Summary": "The AML Engine repository on GitHub now contains a complete API documentation.",
+      "More": null,
+      "Links": [        
+        {
+      "Address": "https://github.com/AutomationML/AMLEngine2.1/blob/master/Documentation/README.md",
+      "LinkTarget": "Aml.Engine API documentation on GitHub"
+        }
+      ],
+      "DateString": "03.08.2021"
+    },
+    {
+      "Category": "DeveloperNews",
       "Summary": "AutomationML Position Paper on Implementation Technologies for the Asset Administration Shell.",
       "More": "Industrie 4.0 experts are currently involved in implementation efforts for the Asset Administration Shell, a core concept for the envisioned digitalised industry. A panel of experts under the umbrella of the AutomationML e.V. has formulated a paper presenting their recommendations for the implementation technologies for Industrie 4.0 scenarios involving the Asset Administration Shell.",
       "Links": [        
