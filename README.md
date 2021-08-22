@@ -1,4 +1,11 @@
+---
+
+![][1]
+
+---
+
 # AutomationMLEditor
+
 Public resources used by the AutomationML Editor
 
 **AutomationML editor** has been developed by the **AutomationML** society
@@ -10,3 +17,5 @@ AutomationML. However, the number of features and functionalities of
 the AutomationML editor does not represent the entire modelling scope
 of AutomationML. AutomationML editor is provided by AutomationML e.V.
 and distributed under the MIT license.
+
+[1]: https://raw.githubusercontent.com/AutomationML/AMLEngine2.1/master/img/AutomationML-Logo.png
