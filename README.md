@@ -18,4 +18,7 @@ the AutomationML editor does not represent the entire modelling scope
 of AutomationML. AutomationML editor is provided by AutomationML e.V.
 and distributed under the MIT license.
 
+![](img/Editor.png)
+
+
 [1]: https://raw.githubusercontent.com/AutomationML/AMLEngine2.1/master/img/AutomationML-Logo.png
