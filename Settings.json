@@ -18,7 +18,6 @@
     "AMLWebPages":    
 	{
 		"AutomationML Home": "https://www.automationml.org/", 
-		"AutomationML on Nuget": "https://www.nuget.org/profiles/AutomationML",
 		"AutomationML .NET repositories on GitHub": "https://github.com/AutomationML",
 		"AutomationML Wikipedia": "https://de.wikipedia.org/wiki/AutomationML", 
 		"AutomationML Component Checker": "https://amlcc.tarakos.de/Identity/Account/Login?ReturnUrl=%2F",

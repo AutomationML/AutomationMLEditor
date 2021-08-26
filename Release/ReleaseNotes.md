@@ -1,5 +1,12 @@
 ﻿## AutomationML Editor
 
+### Version 5.6.1
+
+- When an AutomationML container is opened and modified, the Editor doesn't operate on the original source but on a
+backup copy of the container file. The original container file will only be modified if the edited content is saved.
+
+- This version uses the Aml.Engine v1.6.4 and Aml.Plugin.Contract v2.5.0.
+
 ### Version 5.6.0
 
 ##### Bug Fixes
