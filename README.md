@@ -17,7 +17,7 @@ Public resources used by the AutomationML Editor
 
 ## Feedback and suggestions
 
-We would love to hear from you! For issues, let us know through the _Send Feedback_ option in the upper right-hand corner of the Editor. The Feedback Icon ![](img/feedback.png) is located in the upper right-hand corner. You can make a product suggestion or propose new features.
+We would love to hear from you! For issues, let us know through the _Send Feedback_ option in the upper right-hand corner of the Editor. The Feedback Icon ![](img/feedback.png) is located in the upper right-hand corner. You can make a product suggestion or propose new features in the new [AutomationML Editor Community](https://github.com/AutomationML/AutomationMLEditor/discussions/) forum, where you can ask questions, find answers, and propose new features.
 
 
 [1]: https://raw.githubusercontent.com/AutomationML/AMLEngine2.1/master/img/AutomationML-Logo.png
