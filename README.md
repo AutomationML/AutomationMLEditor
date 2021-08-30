@@ -14,6 +14,14 @@ Public resources used by the AutomationML Editor
 
 ![Editor](img/Editor.png "AutomationML Editor with AMLDraw PlugIn")
 
+## Installation
+
+If the editor is already installed, you will be informed about new releases via a message from the editor and the update can be started directly from the editor.  For a first installation use the latest released version published here. Unzip the Installation file and run the setup executable. If the editor does not start after installation you can either install an earlier version or try a manual installation. Proceed as follows:
+
+- Delete all PlugIns from the Plugin folder. The plugIns are located in your Application Data folder ( ../AppData/Roaming/AutomationMLEditor/..).
+- Uninstall the editor.
+- Reinstall the editor.
+- Add the plug-ins again with the help of the plug-in manager.
 
 ## Feedback and suggestions
 
