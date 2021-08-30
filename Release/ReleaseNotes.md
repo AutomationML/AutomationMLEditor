@@ -1,5 +1,13 @@
 ﻿## AutomationML Editor
 
+
+### Version 5.6.2
+
+#### Issues Addressed in this Release
+- Fixed an issue where loading an AML file would fail with a double click from the explorer window.
+
+
+
 ### Version 5.6.1
 
 - When an AutomationML container is opened and modified, the Editor doesn't operate on the original source but on a

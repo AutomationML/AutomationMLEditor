@@ -1,10 +1,22 @@
 {
-  "AutomationMLEditorRecentVersion": "5.6.1.0",
+  "AutomationMLEditorRecentVersion": "5.6.2.0",
   "AutomationMLEditorReleaseNotes": "https://github.com/AutomationML/AutomationMLEditor/blob/main/Release/ReleaseNotes.md",
-  "AutomationMLEditorDownloadLink": "https://github.com/AutomationML/AutomationMLEditor/releases/download/v5.6.1/AMLEditorSetup.zip",
+  "AutomationMLEditorDownloadLink": "https://github.com/AutomationML/AutomationMLEditor/releases/download/v5.6.2/AMLEditor.5.6.2.Setup.zip",
   "AutomationMLEditorInstallerVersion": "1.1.0",
   "AutomationMLEditorInstallerDownloadLink": "https://github.com/AutomationML/AutomationMLEditor/raw/main/Installer/AmlEditorUpdaterSetup.zip",
   "NewsItems": [
+    {
+	  "Category": "ReleaseNews",
+      "Summary": "You are invited to share your ideas or proposals for new features of the AutomationML editor in a new discussion forum provided by GitHub.",
+      "More": null,
+      "Links": [        
+        {
+      "Address": "https://github.com/AutomationML/AutomationMLEditor/discussions/",
+      "LinkTarget": "AutomationML Editor Discussion Group"
+        }
+      ],
+      "DateString": "30.08.2021"
+	},
     {
       "Category": "DeveloperNews",
       "Summary": "The AML Engine now offers a TreeTraversal Service. This service offers Breadth First and Depth First methods for traversing InternalElement hierarchies.",
