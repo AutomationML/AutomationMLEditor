@@ -1,5 +1,12 @@
 ﻿## AutomationML Editor
 
+### Version 5.6.3
+
+### Issues Addressed in this Release
+- Fixed an issue where navigation to a base class raised an exception when the class reference could not be resolved to an existing class.
+- A new option **Resolve External References** allows references to classes in external documents to be taken into account when creating instances and visualizing inheritance.
+- Fixed an issue where visualising inherited attributes does not show any items.
+
 
 ### Version 5.6.2
 
