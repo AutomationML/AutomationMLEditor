@@ -1,6 +1,6 @@
 ﻿## AutomationML Editor
 
-### Version 5.6.3
+### Version 5.6.4
 
 ### Issues Addressed in this Release
 - Fixed an issue where navigation to a base class raised an exception when the class reference could not be resolved to an existing class.
