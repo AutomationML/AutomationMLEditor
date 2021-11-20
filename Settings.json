@@ -8,6 +8,13 @@
 			"Page": "https://www.automationml.org/download-archive/"
 		}
 	],
+	"AMLLibTypes":
+	{
+		"1.WP": "White Paper",
+		"2.BPR": "Best Practice Recommendation",
+		"3.AR": "Application Recommendation",
+		"4.EXP": "Experimental and Work in Progress"
+	},
 	"ListAttributes": "https://www.automationml.org/wp-content/uploads/2021/06/BPR_004E_List_Attributes_Jan2016.pdf",
 	"CCTesting" : "/Home/Testing",
 	"AMLHelpPages":   

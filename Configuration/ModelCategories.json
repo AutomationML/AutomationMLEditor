@@ -1,0 +1,37 @@
+{
+  "ModelCategories": 
+    [
+    {
+      "Type": "Whitepaper",
+      "Description": "White Papers and AutomationML Standard Libraries"
+	},
+	{
+      "Type": "TopLevel",
+      "Description": "Basic Examples"
+	},
+	{
+      "Type": "BestPractice",
+      "Description": "Models according to Best Practice Recommendations"
+	},
+	{
+      "Type": "ApplicationRecommendation",
+      "Description": "Models according to Application Recommendations"
+	},
+	{
+      "Type": "UserDefined",
+      "Description": "User defined Libraries"
+	},
+	{
+      "Type": "Advanced",
+      "Description": "Advanced Examples"
+	},
+	{
+      "Type": "AMLBook",
+      "Description": "Supplementary contents to the AutomationML Books"
+	},
+	{
+      "Type": "Experimental",
+      "Description": "Experimental Libraries and Work in Progress"
+	} 
+	]	
+}

@@ -1,5 +1,16 @@
 ﻿## AutomationML Editor
 
+### Version 5.6.5
+
+### Issues Addressed in this Release
+
+- Library import from AutomationML provides new items
+- The included AutomationML Standard libraries Edition 2.10 have been exchanged for the versions offered on the AutomationML site.
+  Please be aware, that the AutomationML Standard AttributeTypeLib has been updated.
+- Layout Improvements in Start Page
+- Layout Improvements in Import Libraries Dialog
+- **Collapse All** method for expanded tree views added
+
 ### Version 5.6.4
 
 ### Issues Addressed in this Release
