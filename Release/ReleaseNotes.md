@@ -1,5 +1,13 @@
 ﻿## AutomationML Editor
 
+
+### Version 5.6.6
+
+### Issues Addressed in this Release
+
+- Allowing to add "Sub Attributes" of AttributeTypes using the '+' button.
+- Allowing to edit "Sub Attributes" of AttributeTypes when they are selected in the library treeview.
+
 ### Version 5.6.5
 
 ### Issues Addressed in this Release

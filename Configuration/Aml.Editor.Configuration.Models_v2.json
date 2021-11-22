@@ -1,5 +1,21 @@
 {
   "Models": [
+	{
+      "Category": "Experimental",
+      "Name": "AutomationML 2.10 Educational Library Part3",
+      "Description": "AutomationML 2.10 Educational Library Part 1 and modeling proposal of Part 3 attributes.",
+      "Parts": [        
+        {
+          "CAEXVersion": "CAEX 3.0",
+          "Name": "AutomationML2.10BaseLibraries with Part 3 Geometry",
+          "PartType": "AMLLibrary",
+          "DateString": "13.11.2021",
+          "Location": "AutomationML2.10BaseLibraries with Part 3 Geometry attributes.aml"
+        },
+      ],
+      "DateString": "13.11.2021",
+      "Location": "https://www.automationml.org/wp-content/uploads/2021/11/EXP-Library-AML2.10-geometry.zip"
+    }, 
     {
       "Category": "Whitepaper",
       "Name": "Part1: Architecture and General Requirements",
