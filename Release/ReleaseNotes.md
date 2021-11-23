@@ -1,5 +1,11 @@
 ## AutomationML Editor
 
+### Version 5.6.7
+
+### Issues Addressed in this Release
+
+- Adaption to new AutomationML corporate design
+- Enable reload of WEB Resources when Web connection fails [(Related Information)](https://github.com/AutomationML/AutomationMLEditor/wiki/WebResources/).
 
 ### Version 5.6.6
 

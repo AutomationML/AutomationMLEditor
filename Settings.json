@@ -2,6 +2,7 @@
 	"Track": "https://www.automationml.org/contact/",
 	"AmlHome": "https://www.automationml.org/",	
 	"AMLProjectPage": "https://raw.githubusercontent.com/AutomationML/AutomationMLEditor/main",
+	"AMLEditorPage": "https://github.com/AutomationML/AutomationMLEditor#readme",
 	"AMLToolPages":
 	[
 		{
@@ -18,20 +19,21 @@
 	"ListAttributes": "https://www.automationml.org/wp-content/uploads/2021/06/BPR_004E_List_Attributes_Jan2016.pdf",
 	"CCTesting" : "/Home/Testing",
 	"AMLHelpPages":   
-	{
+	{		
+		"Editor Wiki": "https://github.com/AutomationML/AutomationMLEditor/wiki",
 		"Editor Tutorial video (german-outdated)": "https://www.youtube.com/watch?v=T94Aa3XCb_M&t=302s/", 
-		"Editor Tutorial video (english-outdated)": "https://youtu.be/YBCVM3puKZU"
+		"Editor Tutorial video (english-outdated)": "https://youtu.be/YBCVM3puKZU",
 	},    
     "AMLWebPages":    
 	{
 		"AutomationML Home": "https://www.automationml.org/", 
 		"AutomationML .NET repositories on GitHub": "https://github.com/AutomationML",
-		"AutomationML Wikipedia": "https://de.wikipedia.org/wiki/AutomationML", 
+		"AutomationML Wikipedia": "https://de.wikipedia.org/wiki/AutomationML",
+		"AutomationML Editor Repository": "https://github.com/AutomationML/AutomationMLEditor#readme",		
 		"AutomationML Component Checker": "https://amlcc.tarakos.de/Identity/Account/Login?ReturnUrl=%2F",
 		"CAEX MDE Workbench (EMF)": "https://github.com/amlModeling/caex-workbench",			
 		"CAEX IEC Norm": "https://webstore.iec.ch/publication/25442",			
 		"COLLADA": "https://www.khronos.org/collada/wiki/Main_page",			
 		"PLCopen": "https://www.plcopen.org"				
-	}
-    
+	}    
 }
