@@ -1,5 +1,11 @@
 ## AutomationML Editor
 
+### Version 5.6.8
+
+### Issues Addressed in this Release
+
+- Fallback method added when download of WEB Resources failed.
+
 ### Version 5.6.7
 
 ### Issues Addressed in this Release
