@@ -131,6 +131,17 @@
     },
     {
       "Category": "OfficeNews",
+      "Summary": "From 20 December 2021 to 3 January 2022, the AutomationML GitHub repositories will be switched from a user account to an organisation account. This will mean that some functions of the AutomationML Editor will be temporarily unavailable during this time.",
+      "Links": [        
+        {
+      "Address": "https://www.automationml.org",
+      "LinkTarget": "AutomationML"
+        }
+      ],
+      "DateString": "6.12.2021"
+    },
+    {
+      "Category": "OfficeNews",
       "Summary": "Our new website is now online and presents itself in a contemporary, fresh and completely renewed design.",
       "More": "With a fresh and completly new design the AutomationML site is significantly more modern, clearer and more user-friendly than before. It also offers users extensive information about AutomationML, the AutomationML Association, its members and its publications. In addition, there is supplementary content on the AutomationML books, which you can find on our new webpage. Links to the chapters are also published in the AMLBook section here.",
       "Links": [        
