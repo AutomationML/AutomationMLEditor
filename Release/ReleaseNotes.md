@@ -6,7 +6,7 @@
 ### Issues Addressed in this Release
 
 - Fixed an issue in the edit group dialogue which throws an exception when an InternalElement was added to the group
-
+- Fixed a bug when Editor crashes on startup if config file setting ResolveExternalReferences is set to True
 
 ### Version 5.6.8
 
