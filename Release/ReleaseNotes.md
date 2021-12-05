@@ -1,5 +1,13 @@
 ## AutomationML Editor
 
+
+### Version 5.6.9
+
+### Issues Addressed in this Release
+
+- Fixed an issue in the edit group dialogue which throws an exception when an InternalElement was added to the group
+
+
 ### Version 5.6.8
 
 ### Issues Addressed in this Release
