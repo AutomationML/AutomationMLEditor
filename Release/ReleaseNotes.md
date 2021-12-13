@@ -1,6 +1,21 @@
 ## AutomationML Editor
 
 
+### Version 5.6.10
+
+### Issues Addressed in this Release
+
+- New method **Copy CAEX object ID** in context menu of tree nodes allows to copy the CAEX object ID.
+- Move and Copy paste actions are defined now also for Role references (SupportedRoleClass and RoleRequirements).
+- New feature in reference navigation dialogue allows to navigate forward and backward.
+- New feature in paste dialogue allows to apply the paste action without closing the dialogue and to proceed with another selected target.
+- New search option **Attribute value** in tree search allows to search for elements with a specific attribute value.
+- Additional button in tree search control allows to reduce or enlarge the tree to display the search result.
+- New navigation buttons are shown in a new pop-up window at the bottom of the search dialogue when a text is entered in the search field, F3 and shift+F3 are supported.
+- The search range is defined by the selected element in a tree view, the current range is labelled in the pop up window.
+- New method **Goto referenced CAEX object** added to attribute context menu if the attribute datatype is defined as **xs:IDREF** and the value is a valid CAEX object ID.
+
+
 ### Version 5.6.9
 
 ### Issues Addressed in this Release
