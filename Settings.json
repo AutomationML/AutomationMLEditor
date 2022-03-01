@@ -1,7 +1,8 @@
 {
 	"Track": "https://www.automationml.org/contact/",
 	"AmlHome": "https://www.automationml.org/",	
-	"AMLProjectPage": "https://raw.githubusercontent.com/AutomationML/AutomationMLEditor/main",
+	"AMLLibCatalog": "https://automationml.ovgu.de/s/E8cemFPyXWPSpxK/download/LibraryDatabase.json",
+    "AMLProjectPage": "https://raw.githubusercontent.com/AutomationML/AutomationMLEditor/main",
 	"AMLEditorPage": "https://github.com/AutomationML/AutomationMLEditor#readme",
 	"AMLToolPages":
 	[
