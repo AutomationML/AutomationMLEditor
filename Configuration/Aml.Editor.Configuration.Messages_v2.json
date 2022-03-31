@@ -1,21 +1,21 @@
 {
-  "AutomationMLEditorRecentVersion": "5.6.10.0",
+  "AutomationMLEditorRecentVersion": "5.6.11.0",
   "AutomationMLEditorReleaseNotes": "https://github.com/AutomationML/AutomationMLEditor/blob/main/Release/ReleaseNotes.md",
-  "AutomationMLEditorDownloadLink": "https://github.com/AutomationML/AutomationMLEditor/releases/download/v5.6.10/AMLEditor.5.6.10.Setup.zip",
+  "AutomationMLEditorDownloadLink": "https://github.com/AutomationML/AutomationMLEditor/releases/download/v5.6.11/AMLEditor.5.6.11.Setup.zip",
   "AutomationMLEditorInstallerVersion": "1.1.0",
   "AutomationMLEditorInstallerDownloadLink": "https://github.com/AutomationML/AutomationMLEditor/raw/main/Installer/AmlEditorUpdaterSetup.zip",
   "NewsItems": [
      {
 	  "Category": "ReleaseNews",
-      "Summary": "You are invited to test the Preview 3 of the AutomationML Editor Version 6.0.",
-      "More": "You can get the 2nd preview version of AutomationML Editor if you are a member of AutomationML Association. You can use the editor in parallel with the current version, you just need to unzip the file in a folder. The editor in this preview version does not offer PlugIn integration yet. A license is required for use, which you can install directly via the AutomationML Cloud when you call up the editor for the first time. As usual, you can view the new features in the release notes. Please report any anomalies or errors to software support. You can now also use a dark mode with the editor, please restart the editor after the change so that all visual effects are set correctly.",
+      "Summary": "You are invited to test the AutomationML Editor Version 6.0.",
+      "More": "You can get the new version of AutomationML Editor if you are a member of AutomationML Association. You can use the editor in parallel with the current version, you just need to unzip the file in a folder. The editor in this preview version does not offer PlugIn integration yet. A license is required for use, which you can install directly via the AutomationML Cloud when you call up the editor for the first time. As usual, you can view the new features in the release notes. Please report any anomalies or errors to software support. You can now also use a dark mode with the editor, please restart the editor after the change so that all visual effects are set correctly.",
       "Links": [        
         {
-      "Address": "https://automationml.ovgu.de/apps/files/?dir=/AutomationML%20e.V./Software/AMLEditor&openfile=199492&scrollto=AMLEditor%206.0%20Preview3.zip",
-      "LinkTarget": "AutomationML Editor Version 6.0 preview 3"
+      "Address": "https://automationml.ovgu.de/f/198999",
+      "LinkTarget": "AutomationML Editor Version 6.0"
         }
       ],
-      "DateString": "04.03.2022"
+      "DateString": "31.03.2022"
 	},
     {
 	  "Category": "ReleaseNews",
