@@ -1,6 +1,14 @@
 ## AutomationML Editor
 
 
+
+### Version 5.6.11
+
+### Issues Addressed in this Release
+
+- Runtime version changed to .NET Framework 4.8
+- Update to last version of Aml.Engine
+
 ### Version 5.6.10
 
 ### Issues Addressed in this Release
