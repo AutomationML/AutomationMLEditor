@@ -5,6 +5,26 @@
   "AutomationMLEditorInstallerVersion": "1.1.0",
   "AutomationMLEditorInstallerDownloadLink": "https://github.com/AutomationML/AutomationMLEditor/raw/main/Installer/AmlEditorUpdaterSetup.zip",
   "NewsItems": [
+  	{
+	  "Category": "ReleaseNews",
+      "Summary": "There are new wiki pages with explanatory videos for some specific editor functions..",
+      "More": null,
+      "Links": [        
+        {
+      "Address": "https://github.com/AutomationML/AutomationMLEditor/wiki/ExternalData/",
+      "LinkTarget": "Editing of external data references"
+        },
+        {
+      "Address": "https://github.com/AutomationML/AutomationMLEditor/wiki/AMLContainer/",
+      "LinkTarget": "Working with AutomationML containers"
+        },
+        {
+      "Address": "https://github.com/AutomationML/AutomationMLEditor/wiki/SplitMerge/",
+      "LinkTarget": "Splitting and Merging"
+        }
+      ],
+      "DateString": "17.04.2022"
+	},
      {
 	  "Category": "ReleaseNews",
       "Summary": "You are invited to test the AutomationML Editor Version 6.0.",
