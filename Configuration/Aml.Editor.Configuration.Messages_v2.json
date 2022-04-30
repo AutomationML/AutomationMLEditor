@@ -25,18 +25,6 @@
       ],
       "DateString": "17.04.2022"
 	},
-     {
-	  "Category": "ReleaseNews",
-      "Summary": "You are invited to test the AutomationML Editor Version 6.0.",
-      "More": "An updated version of the AutomationML Editor v6.0 has been released with some fixes related to AMLContainer handling. You can get the new version of AutomationML Editor if you are a member of AutomationML Association. You can use the editor in parallel with the current version, you just need to unzip the file in a folder. The editor in this preview version does not offer PlugIn integration yet. A license is required for use, which you can install directly via the AutomationML Cloud when you call up the editor for the first time. As usual, you can view the new features in the release notes. Please report any anomalies or errors to software support. You can now also use a dark mode with the editor, please restart the editor after the change so that all visual effects are set correctly.",
-      "Links": [        
-        {
-      "Address": "https://automationml.ovgu.de/f/198999",
-      "LinkTarget": "AutomationML Editor Version 6.0"
-        }
-      ],
-      "DateString": "19.04.2022"
-	},
     {
 	  "Category": "ReleaseNews",
       "Summary": "You are invited to share your ideas or proposals for new features of the AutomationML editor in a new discussion forum provided by GitHub.",
