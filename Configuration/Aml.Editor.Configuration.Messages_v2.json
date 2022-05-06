@@ -26,6 +26,18 @@
       "DateString": "17.04.2022"
 	},
     {
+	  "Category": "DeveloperNews",
+      "Summary": "A new sandbox repository to support the plugin development for AutomationML editor version 6.0 and higher is now available.",
+      "More": "Please note that both the version for the editor in version 5 and the new version for the editor in version 6 are offered.",
+      "Links": [        
+        {
+      "Address": "https://github.com/AutomationML/AMLEditorPlugin",
+      "LinkTarget": "AutomationML Editor PlugIn Development"
+        }
+      ],
+      "DateString": "06.05.2022"
+	},
+    {
 	  "Category": "ReleaseNews",
       "Summary": "You are invited to share your ideas or proposals for new features of the AutomationML editor in a new discussion forum provided by GitHub.",
       "More": null,
