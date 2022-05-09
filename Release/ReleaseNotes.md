@@ -1,6 +1,13 @@
 ﻿
 ## AutomationML Editor
 
+### Version 6.0.2 (service release)
+
+#### Issues Addressed in this Release
+
+- Adaption to the new Plug-in API v3.0.5
+- Capture Dialog will now copy the captured image to the clipboard while the dialogue is still open
+
 ### Version 6.0 (release scheduled for may 2022)
 
 #### Issues Addressed in this Release
