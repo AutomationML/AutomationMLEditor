@@ -8,11 +8,8 @@
 
 ## News
 
-**AutomationML editor** Version 6.0 now availabe for members of the AutomationML Association.
+**AutomationML editor** Version 6.0 is now availabe for public.
 
-[Download Version 6.0](https://automationml.ovgu.de/f/198999)
-
-A public version will be available in may.
 
 ## Instructions for use
 

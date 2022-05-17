@@ -1,6 +1,20 @@
 ﻿
 ## AutomationML Editor
 
+### Version 6.0.3 (service release)
+
+#### Issues Addressed in this Release
+
+- Plugin developers can now use the [Aml.Editor.API package](https://www.nuget.org/packages/Aml.Editor.API/). This allows plugins to directly call methods of the editor even outside the classes instantiated by the editor through Composition. 
+- Fixed some presentation problems related to UI command icons
+
+### Version 6.0.2 (service release)
+
+#### Issues Addressed in this Release
+
+- Adaption to the new Plug-in API v3.0.5
+- Capture Dialog will now copy the captured image to the clipboard while the dialogue is still open
+
 ### Version 6.0 (release scheduled for may 2022)
 
 #### Issues Addressed in this Release

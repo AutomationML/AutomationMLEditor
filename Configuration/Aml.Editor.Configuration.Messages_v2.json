@@ -1,7 +1,7 @@
 {
-  "AutomationMLEditorRecentVersion": "6.0.1.0",
+  "AutomationMLEditorRecentVersion": "6.0.3.0",
   "AutomationMLEditorReleaseNotes": "https://github.com/AutomationML/AutomationMLEditor/blob/main/Release/ReleaseNotes.md",
-  "AutomationMLEditorDownloadLink": "https://github.com/AutomationML/AutomationMLEditor/releases/download/v6.0.1/AMLEditor.6.0.1.Setup.zip",
+  "AutomationMLEditorDownloadLink": "https://github.com/AutomationML/AutomationMLEditor/releases/download/v6.0.3/Aml.Editor.6.0.3.Setup.zip",
   "AutomationMLEditorInstallerVersion": "1.1.0",
   "AutomationMLEditorInstallerDownloadLink": "https://github.com/AutomationML/AutomationMLEditor/raw/main/Installer/AmlEditorUpdaterSetup.zip",
   "NewsItems": [
@@ -24,6 +24,18 @@
         }
       ],
       "DateString": "17.04.2022"
+	},
+    {
+	  "Category": "DeveloperNews",
+      "Summary": "A new sandbox repository to support the plugin development for AutomationML editor version 6.0 and higher is now available.",
+      "More": "Please note that both the version for the editor in version 5 and the new version for the editor in version 6 are offered.",
+      "Links": [        
+        {
+      "Address": "https://github.com/AutomationML/AMLEditorPlugin",
+      "LinkTarget": "AutomationML Editor PlugIn Development"
+        }
+      ],
+      "DateString": "06.05.2022"
 	},
     {
 	  "Category": "ReleaseNews",
