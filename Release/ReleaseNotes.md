@@ -1,6 +1,27 @@
 ﻿
 ## AutomationML Editor
 
+### Version 6.0.4 (service release)
+
+#### Issues Addressed in this Release
+
+- The License Dialog provides a new option for the distribution of license files.
+- InternalLink Line drawings respond to UI Scaling, this can avoid some visualization problems showing link lines.
+- An *Open Backupfolder* - button has been added to the backup file selection dialog.
+- Menu items in the context menu of tree nodes are regrouped and rearranged. 
+- The Visual layout of *Attribute Tables* has been improved.
+- The performance of *attribute view switching* has been improved.
+- All ***Header*** definitions of all CAEX Objects can now be edited
+	- ***Constraint-Header*** (editor is started from *constraint context menu*)
+	- ***RefSemantic-Header*** (editor is started from *refsemantic context menu)*
+	- ***Revision-Header*** (editor is started from *revision context menu*)
+	- ***ExternalReference-Header*** (editor is started from *externalreference context menu*)
+	- ***CAEXFile-Header*** (editor is active when no other object is selected)
+	- ***InternalLink-Header*** (editor is active, when a link line is selected)
+	
+- A **new Editor Update feature** and installation procedure is implemented. Future updates will no longer be published as msi-installer files. This version of the editor comes with a new embedded update feature. The next version update will be published as a self contained zip file and does not require an installer.  This version is the last version, published with an installer. You will be notified with a new update dialog, when an update is available. There are options to skip a version or to postpone the update to a later time.
+
+
 ### Version 6.0.3 (service release)
 
 #### Issues Addressed in this Release
