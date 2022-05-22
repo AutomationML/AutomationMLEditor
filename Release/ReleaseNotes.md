@@ -11,6 +11,7 @@
 - Menu items in the context menu of tree nodes are regrouped and rearranged. 
 - The Visual layout of *Attribute Tables* has been improved.
 - The performance of *attribute view switching* has been improved.
+- Property Description Area allows scrolling of content.
 - All ***Header*** definitions of all CAEX Objects can now be edited
 	- ***Constraint-Header*** (editor is started from *constraint context menu*)
 	- ***RefSemantic-Header*** (editor is started from *refsemantic context menu)*
