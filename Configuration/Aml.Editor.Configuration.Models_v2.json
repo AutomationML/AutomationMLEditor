@@ -747,28 +747,28 @@
           "Name": "CC-Link Libraries",
           "PartType": "AMLLibrary",
           "DateString": "01.03.2021",
-          "Location": "BPR_CC-Link_Libraries_V1.0.0.aml"
+          "Location": "BPR_CC-Link_Libraries_V1.0.1.aml"
         },
         {
           "CAEXVersion": "CAEX 2.15",
           "Name": "CC-Link Example CompositeComponent",
           "PartType": "AMLContainer",
           "DateString": "01.03.2021",
-          "Location": "BPR_CC-Link_Example_Component_V1.0.0.amlx"
+          "Location": "BPR_CC-Link_Example_Component_V1.0.1.amlx"
         },
         {
           "CAEXVersion": "CAEX 2.15",
           "Name": "CC-Link Example CompositeComponent",
           "PartType": "AMLContainer",
           "DateString": "01.03.2021",
-          "Location": "BPR_CC-Link_Example_CompositeComponent_V1.0.0.amlx"
+          "Location": "BPR_CC-Link_Example_CompositeComponent_V1.0.1.amlx"
         },
         {
           "CAEXVersion": "CAEX 2.15",
           "Name": "CC-Link in AutomationML",
           "PartType": "AdditionalDocument",
           "DateString": "01.03.2021",
-          "Location": "BPR_CC-Link_V1.0.0.pdf"
+          "Location": "BPR_CC-Link_V1.0.1.pdf"
         }
       ],
       "DateString": "01.05.2022",
