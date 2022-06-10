@@ -1029,21 +1029,21 @@
       "Description": "This application recommendation proposes a modelling method to link objects from AML to elements of IEC 62264, a standard for data exchange between Enterprise Resource Planning (ERP) systems and Manufacturing Execution Systems (MES).",
       "Parts": [
         {
-          "CAEXVersion": "CAEX 2.15, AR MES-ERP, V 2.0.0",
+          "CAEXVersion": "CAEX 3.0, AR MES-ERP, V 2.0.0",
           "Name": "Proposed AutomationML libraries for B2MML",
           "PartType": "AMLLibrary",
           "DateString": "07.11.2018",
           "Location": "AutomationMLB2MMLLib.aml"
         },
         {
-          "CAEXVersion": "CAEX 2.15, AR MES-ERP, V 2.0.0",
+          "CAEXVersion": "CAEX 3.0, AR MES-ERP, V 2.0.0",
           "Name": "Proposed AutomationML libraries for IEC 62264",
           "PartType": "AMLLibrary",
           "DateString": "07.11.2018",
           "Location": "AutomationMLIEC62264Lib.aml"
         },
         {
-          "CAEXVersion": "CAEX 2.15, AR MES-ERP, V 1.0.0",
+          "CAEXVersion": "CAEX 3.0 AR MES-ERP, V 1.0.0",
           "Name": "Provisioning for MES and ERP - Support for IEC 62264 and B2MML",
           "PartType": "AdditionalDocument",
           "DateString": "07.11.2018",
