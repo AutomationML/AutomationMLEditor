@@ -1,7 +1,7 @@
 ﻿
 ## AutomationML Editor
 
-### Version 6.0.4 (service release)
+### Version 6.0.4 ([service release](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.0.4))
 
 #### Issues Addressed in this Release
 
