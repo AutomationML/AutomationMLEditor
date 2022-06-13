@@ -22,6 +22,8 @@
 	"AMLHelpPages":   
 	{		
 		"Editor Wiki": "https://github.com/AutomationML/AutomationMLEditor/wiki",
+		"Editor Discussion": "https://github.com/AutomationML/AutomationMLEditor/discussions",
+		"Editor Issues": "https://github.com/AutomationML/AutomationMLEditor/issues",
 		"Editor Tutorial video (german-outdated)": "https://www.youtube.com/watch?v=T94Aa3XCb_M&t=302s/", 
 		"Editor Tutorial video (english-outdated)": "https://youtu.be/YBCVM3puKZU",
 	},    
