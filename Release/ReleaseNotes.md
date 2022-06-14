@@ -1,8 +1,15 @@
 ﻿
 ## AutomationML Editor
 
-### Version 6.0.4 ([service release](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.0.4))
+### [Version 6.0.5](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.0.5))
+#### Issues Addressed in this Release
 
+- A new feature to support name validation has been added to the document validation service.
+- A problem related to systems with English language locale is fixed.
+- A .Net 6 version is available on request. The publicly distributed version is still based on .Net 5.
+
+
+### [Version 6.0.4](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.0.4))
 #### Issues Addressed in this Release
 
 - The License Dialog provides a new option for the distribution of license files.
