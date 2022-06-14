@@ -1,8 +1,7 @@
 ﻿
 ## AutomationML Editor
 
-If you have problems with the automatic update function, you can perform a manual update at any time. Use the [download link)
-](https://github.com/AutomationML/AutomationMLEditor/releases/latest/Aml.Edior.zip) to do this.
+If you have problems with the automatic update function, you can perform a manual update at any time. Use the [download link](https://github.com/AutomationML/AutomationMLEditor/releases/latest/download/Aml.Edior.zip) to do this.
 
 ### [Version 6.0.5](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.0.5)
 #### Issues Addressed in this Release
