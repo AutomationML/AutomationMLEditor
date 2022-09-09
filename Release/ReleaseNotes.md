@@ -3,6 +3,20 @@
 
 If you have problems with the automatic update function, you can perform a manual update at any time. Use the [download link](https://github.com/AutomationML/AutomationMLEditor/releases/latest/download/Aml.Editor.zip) to do this.
 
+
+### [Version 6.1.0](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.1.0) 
+#### Issues Addressed in this Release
+
+- Loading documents could take a very long time if the document references libraries that are not included in the document itself and have a lot of references on it.  The loading time has now been improved.
+- A new offline mode (without internet connection) can be configured in the settings. In offline mode, libraries and models cannot be loaded from the AutomationML website. Some services that require access to the AutomationML cloud are also not available.
+This mode has been added to enable the usage of the AutomationML editor for people and organizations who are not allowed to use software, which silently use internet connections. The offline mode is **not set** by default.
+- The .NET 5.0 runtime has reached end of support on May 10, 2022. Microsoft will no longer provide servicing updates, including security fixes or technical support, for .NET 5.0. 
+Therefore, new versions of the editor including this version are offered for the .NET 6.0 runtime only due to security considerations.
+- Selecting an object with attributes automatically selects the first attribute in the Attributes view. This feature has been disabled now because this could cause problems when editing the objects header attributes.
+- Saving an aml document to a container could raise an exception in some situations. This is fixed.
+- Foreground colour of description area changed to a white brush when colour theme is set to a dark mode.
+- Adding a show clear text button to password box in AML Login
+
 ### [Version 6.0.5](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.0.5)
 #### Issues Addressed in this Release
 
