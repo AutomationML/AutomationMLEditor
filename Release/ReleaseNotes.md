@@ -3,6 +3,16 @@
 
 If you have problems with the automatic update function, you can perform a manual update at any time. Use the [download link](https://github.com/AutomationML/AutomationMLEditor/releases/latest/download/Aml.Editor.zip) to do this.
 
+### [Version 6.1.1](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.1.1) 
+#### Issues Addressed in this Release
+
+- Internal link connection lines could not be displayed for large distances between the interfaces,
+since the position of the start and end points no longer exist for the calculation of the line coordinates.
+Now the line coordinates are approximated and all connecting lines are always represented. The position of the lines
+can shift however when scrolling the window contents.
+- Cardinality violations for InternalLinks are now checked in the document
+validation.
+- If the cardinality of an ExternalInterface is changed, the display is updated now. 
 
 ### [Version 6.1.0](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.1.0) 
 #### Issues Addressed in this Release
