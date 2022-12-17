@@ -24,18 +24,16 @@ Since Version 6.0, a new license model is implemented that remains its free avai
 
 What does this mean for non-members? As mentioned, the AutomationML Editor version 6 is still available for free for educational and experimental use.
 
-Additionally, the last current version (V. 5.6.x) is still available here and from the AutomationML Website with unrestricted size and features and is not affected by the changes/new features. But the development of that version is frozen and is no longer supported.
+Additionally, the last current version ([V. 5.6.11](https://github.com/AutomationML/AutomationMLEditor/releases/download/v5.6.11/AMLEditor.5.6.11.Setup.zip)) is still available here and from the AutomationML Website with unrestricted size and features and is not affected by the changes/new features. But the development of that version is frozen and is no longer supported.
 
 Version 6 is the next generation software and can be used in full for test purposes. If you run into limitations or desires the application of dedicated Plugins, temporary license keys can be requested from the AutomationML office. Your first and last name as well as an official email address of your organisation would be important. The duration of these license keys may depend on the planned use case. 
 
 
 ## Installation
 
-If the editor is already installed, you will be informed about new releases via a message from the editor and the update can be started directly from the editor.  For a first installation use the latest released version published here. Unzip the Installation file and run the setup executable. If the editor does not start after installation you can either install an earlier version or try a manual installation. Proceed as follows:
+If the editor is already installed, you will be informed about new releases via a message from the editor and the update can be started directly from the editor.  For a first installation use the latest released version published here. Unzip the Installation file and start the executable. If the editor does not start after installation you can either install an earlier version or try a manual installation. Proceed as follows:
 
 - Delete all PlugIns from the Plugin folder. The plugIns are located in your Application Data folder ( ../AppData/Roaming/AutomationMLEditor/..).
-- Uninstall the editor.
-- Reinstall the editor.
 - Add the plug-ins again with the help of the plug-in manager.
 
 ## Feedback and suggestions
