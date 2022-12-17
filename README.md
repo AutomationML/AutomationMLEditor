@@ -8,7 +8,7 @@
 
 ## News
 
-**AutomationML editor** Version 6.0 is now availabe for public.
+**AutomationML editor** [Version 6.1.1](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.1.1) is now availabe for public.
 
 
 ## Instructions for use
