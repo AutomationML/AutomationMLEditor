@@ -44,7 +44,11 @@
       "Links": [        
         {
       "Address": "https://berlin-prinz.de",
-      "LinkTarget": "AutomationML support by Josef Prinz"
+      "LinkTarget": "AutomationML software support by Josef Prinz"
+        },
+	{
+      "Address": "mailto:devspace@berlin-prinz-de",
+      "LinkTarget": "mail: devspace@berlin-prinz.de"
         }
       ],
       "DateString": "29.12.2022"
