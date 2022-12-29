@@ -37,6 +37,18 @@
       ],
       "DateString": "06.05.2022"
 	},
+	  {
+	  "Category": "DeveloperNews",
+      "Summary": "A personal message from Josef Prinz",
+      "More": "After many years of responsibility for software development and user support in the AutomationML association, a new chapter in my life will soon begin. The high quality of the software tools could only be achieved thanks to the many feedbacks and suggestions from the meanwhile large user community. For this I would like to thank you all very much. But I will not retire without keeping an eye on the developments. The first place to go for interested people is my personal website (see below). There you can find news about topics I'm working on, a collection of projects with information and links to my profiles on GitHub and NuGet.",
+      "Links": [        
+        {
+      "Address": "https://berlin-prinz.de",
+      "LinkTarget": "AutomationML support by Josef Prinz"
+        }
+      ],
+      "DateString": "29.12.2022"
+	},
     {
 	  "Category": "ReleaseNews",
       "Summary": "You are invited to share your ideas or proposals for new features of the AutomationML editor in a new discussion forum provided by GitHub.",
