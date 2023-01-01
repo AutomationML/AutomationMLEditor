@@ -79,6 +79,18 @@
     },
     {
       "Category": "DeveloperNews",
+      "Summary": "New series about plugin development.",
+      "More":  "The development of plugins for the AutomationML editor will be presented step by step in a series of blog posts with concrete example implementations.  The finished plugins will be published afterwards.",
+      "Links": [        
+        {
+      "Address": "https://josefprinz.github.io/automationml/2022/12/29/Setting-up-the-development-environment-for-AMLBaseX/",
+      "LinkTarget": "Blog posts about plugin development"
+        }
+      ],
+      "DateString": "01.01.2023"
+    },
+    {
+      "Category": "DeveloperNews",
       "Summary": "The AML Engine repository on GitHub now contains a complete API documentation and a new Wiki.",
       "More": null,
       "Links": [        
