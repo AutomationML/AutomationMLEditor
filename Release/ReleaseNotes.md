@@ -3,6 +3,15 @@
 
 If you have problems with the automatic update function, you can perform a manual update at any time. Use the [download link](https://github.com/AutomationML/AutomationMLEditor/releases/latest/download/Aml.Editor.zip) to do this.
 
+### [Version 6.1.2](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.1.2) 
+#### Issues Addressed in this Release
+
+- Fixed problems related to the visualization of InternalLink lines
+- Fixed a problem that causes a crash when an AutomationML object was created from a class 
+- Fixed a problem related to the + button to add elements when 2 clicks are needed to create the first element 
+- InternalLink elements can now no longer be added via the context menu of a SystemUnitClass or InternalElement, but via the context menu of an ExternalInterface element. A dialog is opened for configuring the InternalLink.  This is an alternative to the graphical creation of an InternalLink element [(see this video on youtube](https://youtu.be/watch?v=i85Fxg8VYz0)).
+- Added support for Aml.Editor.API version 2.0.1
+
 ### [Version 6.1.1](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.1.1) 
 #### Issues Addressed in this Release
 
