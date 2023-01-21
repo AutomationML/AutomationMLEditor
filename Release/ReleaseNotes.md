@@ -3,6 +3,13 @@
 
 If you have problems with the automatic update function, you can perform a manual update at any time. Use the [download link](https://github.com/AutomationML/AutomationMLEditor/releases/latest/download/Aml.Editor.zip) to do this.
 
+### [Version 6.1.3](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.1.3) 
+#### Issues Addressed in this Release
+
+- Fixed that the application stopped responding when the InternalLink interface class selection button was pressed.
+- Fixed that in the view for listing all InternalLinks of the whole document there was no reaction if no object was selected.
+- Fixed a problem with entering the password in the login dialog for AutomationML members.
+
 ### [Version 6.1.2](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.1.2) 
 #### Issues Addressed in this Release
 
