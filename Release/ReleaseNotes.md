@@ -3,6 +3,14 @@
 
 If you have problems with the automatic update function, you can perform a manual update at any time. Use the [download link](https://github.com/AutomationML/AutomationMLEditor/releases/latest/download/Aml.Editor.zip) to do this.
 
+
+### [Version 6.1.4](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.1.4) 
+#### Issues Addressed in this Release
+
+- The configuration of the context menu is corrected when the mouse cursor is positioned outside the boundaries of the selected object.
+- If the *Create InternalElement* option is selected when pasting a role class into a SystemUnitClass, then the options to copy the attributes and interfaces to the InternalElement are now also displayed.
+- Fixed an issue when a new external document was referenced via the *RefUri Editor* the editor crashed if the edited AutomationML document was an element of an open AML container.
+
 ### [Version 6.1.3](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.1.3) 
 #### Issues Addressed in this Release
 
