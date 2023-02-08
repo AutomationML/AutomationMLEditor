@@ -3,6 +3,11 @@
 
 If you have problems with the automatic update function, you can perform a manual update at any time. Use the [download link](https://github.com/AutomationML/AutomationMLEditor/releases/latest/download/Aml.Editor.zip) to do this.
 
+### [Version 6.1.5](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.1.5) 
+#### Issues Addressed in this Release
+
+- The keyboard navigation with the arrow keys in the tree view is functional again.
+- The buttons to activate the special edit operations in the side views were not visible in some themes. Visibility is now restored for all themes.
 
 ### [Version 6.1.4](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.1.4) 
 #### Issues Addressed in this Release
