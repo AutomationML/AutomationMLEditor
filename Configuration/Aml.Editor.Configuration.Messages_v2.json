@@ -27,6 +27,18 @@
 	},
     {
 	  "Category": "DeveloperNews",
+      "Summary": "Problem, related to the Aml.Engine and DocumentVersion Information",
+      "More": "If you are using the Aml.Engine to read DocumentVersion Information included in a CAEXFile youn should know, that the engine has implemented two different model structures. See the linked information.",
+      "Links": [        
+        {
+      "Address": "https://github.com/AutomationML/AMLEngine2.1/blob/master/Documentation/DocumentVersionsInAML.md",
+      "LinkTarget": "Reading DocumentVersionInformation using the AMLEngine"
+        }
+      ],
+      "DateString": "09.02.2023"
+	},	  
+    {
+	  "Category": "DeveloperNews",
       "Summary": "A new sandbox repository to support the plugin development for AutomationML editor version 6.0 and higher is now available.",
       "More": "Please note that both the version for the editor in version 5 and the new version for the editor in version 6 are offered.",
       "Links": [        
