@@ -8,7 +8,9 @@
 
 ## News
 
-**AutomationML editor** [Version 6.1.5](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.1.5) is now availabe for public.
+A new [pre-release](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.2.0-alpha) version of the Editor is available. This release provides new features according to the processing of external referenced documents. 
+
+**AutomationML editor** [Version 6.1.5](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.1.5) is availabe for public.
 
 
 ## Instructions for use
