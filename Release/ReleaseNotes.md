@@ -3,6 +3,30 @@
 
 If you have problems with the automatic update function, you can perform a manual update at any time. Use the [download link](https://github.com/AutomationML/AutomationMLEditor/releases/latest/download/Aml.Editor.zip) to do this.
 
+
+### [Version 6.1.6](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.1.6) 
+#### Issues Addressed in this Release
+  
+#### Bug-Fixes
+
+- There were <u>two different implementations</u> of the `DocumentVersion` elements in the AMLEngine, these versions are unified with version 3.1 of the engine. The editor uses the unified version now. `DocumentVersion` Information in existing AML-Documents which use the no longer supported version are automatically changed. Detailed Explanations about the differences can be found in the [AMLEngine project repository](https://github.com/AutomationML/AMLEngine2.1/blob/master/Documentation/DocumentVersionsInAML.md).
+- Merging of `ExternalReferences` into the document is fixed. This feature was disabled in last versions.
+- Highlight of selected elements in inactive views has been removed.
+- Visualization of InternalLink Lines could raise an exception or even an application crash.
+- Alias references were not always updated correctly when the Alias of the ExternalReference changes.
+- Changed style of validation notifications in attribute- and property editors.
+- Fixed some styling issues related to the visualization of informational notes when the dark theme is used
+- Fixed an issue regarding loading PlugIns which have dependencies to other nuget packages. 
+
+#### New Features
+
+- A new Split Dialog exists which allows to edit the `Alias Name` for the created `ExternalReference` element.
+- Adding a new child class will automatically create an inheritance relation between the parent and the child class now. This behavior can be switched off in the global settings. It is initially activated.
+- Loading very large files (> 500 MB) can cause large loading and running times. The editor checks the current size before loading the file and allows to cancel the loading process. 
+- Editing Alias names and Path for ExternalReference elements im AMLFile view supports validation.
+- Path Name Editor in ExternalReference Editor in AMLFile view offers a File Dialog to define the path.
+
+
 ### [Version 6.1.5](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.1.5) 
 #### Issues Addressed in this Release
 
