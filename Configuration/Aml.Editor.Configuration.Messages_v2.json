@@ -5,6 +5,18 @@
   "AutomationMLEditorInstallerVersion": "1.2.0",
   "AutomationMLEditorInstallerDownloadLink": "https://github.com/AutomationML/AutomationMLEditor/raw/main/Installer/AmlEditorUpdaterSetup.zip",
   "NewsItems": [
+	   {
+	  "Category": "ReleaseNews",
+      "Summary": "The AMLOcl Editor Plugin is released to be used with licensed editor versions 6.1.6 and beyond.",
+      "More": null,
+      "Links": [        
+        {
+      "Address": "https://www.nuget.org/packages/Aml.Editor.Plugin.AMLOcl/",
+      "LinkTarget": "AutomationML Editor Plugin AMLOcl on NUGET"
+        }	      
+      ],
+      "DateString": "08.03.2022"
+	},   
   	{
 	  "Category": "ReleaseNews",
       "Summary": "There are new wiki pages with explanatory videos for some specific editor functions.",
@@ -13,7 +25,7 @@
         {
       "Address": "https://github.com/AutomationML/AutomationMLEditor/wiki/ExternalData/",
       "LinkTarget": "Editing of external data references"
-        },
+        },	     
         {
       "Address": "https://github.com/AutomationML/AutomationMLEditor/wiki/AMLContainer/",
       "LinkTarget": "Working with AutomationML containers"
