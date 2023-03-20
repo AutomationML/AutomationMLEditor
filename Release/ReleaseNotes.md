@@ -3,6 +3,12 @@
 
 If you have problems with the automatic update function, you can perform a manual update at any time. Use the [download link](https://github.com/AutomationML/AutomationMLEditor/releases/latest/download/Aml.Editor.zip) to do this.
 
+### [Version 6.1.7](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.1.7) 
+#### Issues Addressed in this Release
+  
+#### Bug-Fixes
+
+- Fixed a problem that causes a crash when an internal element with an internal link under a system unit class is deleted.
 
 ### [Version 6.1.6](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.1.6) 
 #### Issues Addressed in this Release
