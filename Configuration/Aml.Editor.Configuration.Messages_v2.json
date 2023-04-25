@@ -63,8 +63,8 @@
 	},
 	  {
 	  "Category": "DeveloperNews",
-      "Summary": "A personal message from Josef Prinz",
-      "More": "After many years of responsibility for software development and user support in the AutomationML association, a new chapter in my life will soon begin. The high quality of the software tools could only be achieved thanks to the many feedbacks and suggestions from the meanwhile large user community. For this I would like to thank you all very much. But I will not retire without keeping an eye on the developments. The first place to go for interested people is my personal website (see below). There you can find news about topics I'm working on, a collection of projects with information and links to my profiles on GitHub and NuGet.",
+      "Summary": "Continuation of AML software support by Josef Prinz",
+      "More": "As far as possible, I will continue to contribute to the further development and maintenance of the AutomationML software components.",
       "Links": [        
         {
       "Address": "https://berlin-prinz.de",
@@ -75,7 +75,31 @@
       "LinkTarget": "mail: devspace@berlin-prinz.de"
         }
       ],
-      "DateString": "29.12.2022"
+      "DateString": "25.04.2023"
+	},
+	  {
+	  "Category": "DeveloperNews",
+      "Summary": "AutomationML Engine Updates",
+      "More": "The API online documentation has moved to a new web location and there are brand new wiki pages (see below).",
+      "Links": [        
+        {
+      "Address": "https://automationml.github.io/AMLEngine2.1/",
+      "LinkTarget": "AutomationML Engine API Reference Guide"
+        },
+	{
+      "Address": "https://automationml.github.io/AMLEngine2.1/media/CAEXClassDiagram.png",
+      "LinkTarget": "Picture of the complete CAEX Class Model"
+	},
+	{
+      "Address": "https://github.com/AutomationML/AMLEngine2.1/wiki/Indices",
+      "LinkTarget": "Using Indices to speed up queries"
+        },
+	{
+      "Address": "https://github.com/AutomationML/AMLEngine2.1/wiki/Attributes#Structure-Attributes",
+      "LinkTarget": "Access elements of structured attributes using the AMLEngine"
+        }
+      ],
+      "DateString": "25.04.2023"
 	},
     {
 	  "Category": "ReleaseNews",
