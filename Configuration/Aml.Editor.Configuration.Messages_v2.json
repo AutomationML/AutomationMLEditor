@@ -16,7 +16,19 @@
         }	      
       ],
       "DateString": "08.03.2022"
-	},   
+	}, 
+	{
+	  "Category": "ReleaseNews",
+      "Summary": "A new library relations view showing a library dependency graph is in preparation.",
+      "More": "Classes and Types in a library can have references to classes and types in other libraries. The relations view shows a library dependeny graph for a single library or the full document. You are invited to comment on this announcement.",
+      "Links": [        
+        {
+      "Address": "https://github.com/AutomationML/AutomationMLEditor/discussions/10",
+      "LinkTarget": "Announcement for a library dependency graph"
+        }	      
+      ],
+      "DateString": "09.06.2023"
+	},    
   	{
 	  "Category": "ReleaseNews",
       "Summary": "There are new wiki pages with explanatory videos for some specific editor functions.",
