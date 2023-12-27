@@ -6,6 +6,7 @@
 	"AMLCAEX3Service": "https://automationml.ovgu.de/s/9t4kqL7NX8JsW6o",
 	"AMLModelCatalog": "https://automationml.ovgu.de/s/RN7DMesXHE8Hgs2",
 	"AMLExamplesCatalog": "https://automationml.ovgu.de/s/C76dprMqNNe5Qnq",
+	"AMLFileServer": "https://automationml.ovgu.de/",
     	"AMLProjectPage": "https://raw.githubusercontent.com/AutomationML/AutomationMLEditor/main",
 	"AMLEditorPage": "https://github.com/AutomationML/AutomationMLEditor#readme",
 	"AMLToolPages":
