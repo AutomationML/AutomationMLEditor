@@ -300,6 +300,18 @@
         }
       ],
       "DateString": "08.03.2021"
-    }		
+    },
+	{
+      "Category": "ModelerNews",
+      "Summary": "AutomationML libraries for Part 4 have been withdrawn. ",
+      "More": "AutomationML libraries of part 4 of AutomationML Edition 1 with version number 2.2.2 contain non-standardized classes. This version is now marked as not verified in the editor. Users can revert to version 2.2.1. The new published standardized libraries of part 4 are to be used for the logic models.",
+      "Links": [        
+        {
+      "Address": "https://automationml.ovgu.de/s/QKW5HSQoPiN8Ekz/",
+      "LinkTarget": "Standard Libraries Part4 AutomationML Edition 1"
+        }
+      ],
+      "DateString": "29.12.2023"
+    }			
   ]
 }
