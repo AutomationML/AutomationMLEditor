@@ -15,7 +15,7 @@ You can find detailed instructions on how to use the new features in the wiki on
 - [External Source Windows](
 https://github.com/AutomationML/AutomationMLEditor/wiki/Layout#External-source-windows)
 - [Preview Windows](https://github.com/AutomationML/AutomationMLEditor/wiki/Layout#Preview-windows)
-- 
+- [Publishing](https://github.com/AutomationML/AutomationMLEditor/wiki/Publish)
 
 
 **AutomationML editor** [Version 6.1.7](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.1.7) is the most recent version, provided by the editors update feature.
