@@ -1,5 +1,6 @@
 {
   "UserName": null,
+  "AccessRights": 0,
   "NetworkProtocol": 0,
   "ServerName": "automationml.ovgu.de",
   "PortNumber": 0,

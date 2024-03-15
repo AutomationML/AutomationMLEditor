@@ -1,0 +1,45 @@
+{
+  "UserName": null,
+  "AccessRights": 1,
+  "NetworkProtocol": 0,
+  "ServerName": "automationml.ovgu.de",
+  "PortNumber": 0,
+  "BaseAddress": "remote.php/dav/files/%UserName",
+  "LibraryData": [
+    {
+      "UserName": null,
+      "Folder": "Exchange/Libraries/CAEX2.15",
+      "AutomationMLEdition": 0,
+      "PasswordHash": null
+    },
+    {
+      "UserName": null,
+      "Folder": "Exchange/Libraries/CAEX3.0",
+      "AutomationMLEdition": 1,
+      "PasswordHash": null
+    }
+  ],
+  "LibrayCollectionData": [
+    {
+      "UserName": null,
+      "Folder": "Exchange/Libraries/Models",
+      "AutomationMLEdition": 2,
+      "PasswordHash": null
+    }
+  ],
+  "ExampleData": [
+    {
+      "UserName": null,
+      "Folder": "Exchange/Libraries/Examples",
+      "AutomationMLEdition": 2,
+      "PasswordHash": null
+    }
+  ],
+  "AdministrationData": {
+    "UserName": null,
+    "Folder": "Exchange/Libraries",
+    "AutomationMLEdition": 2,
+    "PasswordHash": null
+  },
+  "PasswordHash": null
+}
