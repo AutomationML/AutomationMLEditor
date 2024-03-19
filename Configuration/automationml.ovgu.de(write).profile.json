@@ -8,38 +8,52 @@
   "LibraryData": [
     {
       "UserName": null,
-      "Folder": "Exchange/SharedAMLDocuments/CAEX2.15",
+      "Folder": "Exchange/Libraries/CAEX2.15",
       "AutomationMLEdition": 0,
+      "ContentType": 0,
       "PasswordHash": null
     },
     {
       "UserName": null,
-      "Folder": "Exchange/SharedAMLDocuments/CAEX3.0",
+      "Folder": "Exchange/Libraries/CAEX3.0",
       "AutomationMLEdition": 1,
+      "ContentType": 0,
       "PasswordHash": null
     }
   ],
   "LibrayCollectionData": [
     {
       "UserName": null,
-      "Folder": "Exchange/SharedAMLDocuments/Models",
+      "Folder": "Exchange/Libraries/Models",
       "AutomationMLEdition": 2,
+      "ContentType": 1,
       "PasswordHash": null
     }
   ],
   "ExampleData": [
     {
       "UserName": null,
-      "Folder": "Exchange/SharedAMLDocuments/Examples",
+      "Folder": "Exchange/Libraries/Examples",
       "AutomationMLEdition": 2,
+      "ContentType": 2,
       "PasswordHash": null
     }
   ],
-  "AdministrationData": {
-    "UserName": null,
-    "Folder": "Exchange/SharedAMLDocuments/Administration",
-    "AutomationMLEdition": 2,
-    "PasswordHash": null
-  },
+  "AdministrationData": [
+    {
+      "UserName": null,
+      "Folder": "Exchange/Libraries",
+      "AutomationMLEdition": 2,
+      "ContentType": 3,
+      "PasswordHash": null
+    },
+    {
+      "UserName": null,
+      "Folder": "AutomationML%20e.V./Software/LicenseManagement",
+      "AutomationMLEdition": 2,
+      "ContentType": 5,
+      "PasswordHash": null
+    }
+  ],
   "PasswordHash": null
 }
