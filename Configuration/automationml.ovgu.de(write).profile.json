@@ -8,14 +8,14 @@
   "LibraryData": [
     {
       "UserName": null,
-      "Folder": "Exchange/Libraries/CAEX2.15",
+      "Folder": "Exchange/SharedAMLDocuments/CAEX2.15",
       "AutomationMLEdition": 0,
       "ContentType": 0,
       "PasswordHash": null
     },
     {
       "UserName": null,
-      "Folder": "Exchange/Libraries/CAEX3.0",
+      "Folder": "Exchange/SharedAMLDocuments/CAEX3.0",
       "AutomationMLEdition": 1,
       "ContentType": 0,
       "PasswordHash": null
@@ -24,7 +24,7 @@
   "LibrayCollectionData": [
     {
       "UserName": null,
-      "Folder": "Exchange/Libraries/Models",
+      "Folder": "Exchange/SharedAMLDocuments/Models",
       "AutomationMLEdition": 2,
       "ContentType": 1,
       "PasswordHash": null
@@ -33,7 +33,7 @@
   "ExampleData": [
     {
       "UserName": null,
-      "Folder": "Exchange/Libraries/Examples",
+      "Folder": "Exchange/SharedAMLDocuments/Examples",
       "AutomationMLEdition": 2,
       "ContentType": 2,
       "PasswordHash": null
@@ -42,7 +42,7 @@
   "AdministrationData": [
     {
       "UserName": null,
-      "Folder": "Exchange/Libraries",
+      "Folder": "Exchange/SharedAMLDocuments/Administration",
       "AutomationMLEdition": 2,
       "ContentType": 3,
       "PasswordHash": null
