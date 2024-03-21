@@ -23,8 +23,8 @@ You can find detailed instructions on how to use the new features in the wiki on
 Version 6.2.1 is published for the [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0).
 
 #### Options to activate library management
-- Select the **"Access External AutomationML Files" ** in the options dialog or from the editors main tool bar to get access to external AutomationML files from the AutomationML file server (currently the NextCloud; Internet access is required). Please note that by enabling this feature, the former provided import function from the AutomationML website will be disabled.
-- Select the **"Save Externals" ** in the options dialog to enable the local storage of referenced external libraries when saving the document. This means that all referenced external libraries, as well as their dependencies are stored to the documents relative folder '**_AMLExternalLibraries**' and are available offline for the current document.
+- Select the **Access External AutomationML Files** in the options dialog or from the editors main tool bar to get access to external AutomationML files from the AutomationML file server (currently the NextCloud; Internet access is required). Please note that by enabling this feature, the former provided import function from the AutomationML website will be disabled.
+- Select the **Save Externals** in the options dialog to enable the local storage of referenced external libraries when saving the document. This means that all referenced external libraries, as well as their dependencies are stored to the documents relative folder '**_AMLExternalLibraries**' and are available offline for the current document.
 - Edit or configure access profiles for file servers from the options dialog.
 
 #### New functions for library management 
