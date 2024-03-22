@@ -8,7 +8,9 @@
 
 ## News
 
-The AutomationML Editor [Version 6.2.0 release candidate](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.2.0) is now available. With version 6.2.0, the AutomationML Editor offers more **support for the management and creation of AutomationML class libraries** according to [Conventions for the modelling of AutomationML libraries](https://www.automationml.org/wp-content/uploads/2023/11/Conventions-for-modelling-AutomationML-libraries-V1.0.0-external.pdf). Compared to previous versions, the use of the class and attribute type libraries, offered by AutomationML, has been fundamentally improved and standardized. These libraries are only integrated into your own documents via external references, using fixed server URLs. Version 6.2.0 is not yet offered by the automatic update function of the editor, but must be downloaded and installed manually via this [link](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.2.0). 
+The AutomationML Editor [Version 6.2.1](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.2.1) is now available. With version 6.2, the AutomationML Editor offers more **support for the management and creation of AutomationML class libraries** according to [Conventions for the modelling of AutomationML libraries](https://www.automationml.org/wp-content/uploads/2023/11/Conventions-for-modelling-AutomationML-libraries-V1.0.0-external.pdf). Compared to previous versions, the use of the class and attribute type libraries, offered by AutomationML, has been fundamentally improved and standardized. These libraries are only integrated into your own documents via external references, using fixed server URLs. 
+
+The most important improvement in version 6.2 is the distribution of AutomationML libraries via a publicly accessible file server. The editor contains a preconfigured access to the **AutomationML NextCloud** as a file server. However, it is also possible to use a company-owned or privately used file server as long as it is accessible via the WebDAV/Https network protocol. All configured servers can also be used in parallel.
 
 You can find detailed instructions on how to use the new features in the wiki on the following topics:
 - [Using external Sources](https://github.com/AutomationML/AutomationMLEditor/wiki/UsingExternals)
@@ -17,9 +19,7 @@ https://github.com/AutomationML/AutomationMLEditor/wiki/Layout#External-source-w
 - [Preview Windows](https://github.com/AutomationML/AutomationMLEditor/wiki/Layout#Preview-windows)
 - [Publishing](https://github.com/AutomationML/AutomationMLEditor/wiki/Publish)
 
-
-**AutomationML editor** [Version 6.1.7](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.1.7) is the most recent version, provided by the editors update feature.
-
+With Version 6.2.1 the [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) is required.    
 
 ## Instructions for use
 
