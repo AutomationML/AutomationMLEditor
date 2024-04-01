@@ -47,6 +47,13 @@
       "ContentType": 3,
       "PasswordHash": null
     },
+	{
+      "UserName": null,
+      "Folder": "Exchange/SharedAMLDocuments/Administration",
+      "AutomationMLEdition": 2,
+      "ContentType": 4,
+      "PasswordHash": null
+    },
     {
       "UserName": null,
       "Folder": "AutomationML%20e.V./Software/LicenseManagement",

@@ -46,6 +46,13 @@
       "AutomationMLEdition": 2,
       "ContentType": 3,
       "PasswordHash": null
+    },
+	{
+      "UserName": "CN6PbKLsc3Hytfe",
+      "Folder": null,
+      "AutomationMLEdition": 2,
+      "ContentType": 4,
+      "PasswordHash": null
     }
   ],
   "PasswordHash": null
