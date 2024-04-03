@@ -3,6 +3,9 @@
 
 ### [Version 6.2.2](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.2.2) 
 
+#### Note
+If your previous version is 6.1.x or older, please also read the detailed release notes for version [6.2.1](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.2.1) before installing this version.
+
 #### New Features
 - A repository of all published classes and attribute types is available on the AutomationML file server. Published classes and attribute types can be searched for in the editor using a similarity search. If the search is successful, the required external reference is generated if required. 
 
