@@ -1,7 +1,7 @@
 {
-  "AutomationMLEditorRecentVersion": "6.2.3.0",
+  "AutomationMLEditorRecentVersion": "6.2.4.0",
   "AutomationMLEditorReleaseNotes": "https://github.com/AutomationML/AutomationMLEditor/blob/main/Release/ReleaseNotes.md",
-  "AutomationMLEditorDownloadLink": "https://github.com/AutomationML/AutomationMLEditor/releases/download/v6.2.3/Aml.Editor.zip",
+  "AutomationMLEditorDownloadLink": "https://github.com/AutomationML/AutomationMLEditor/releases/download/v6.2.4/Aml.Editor.zip",
   "AutomationMLEditorInstallerVersion": "1.2.0",
   "AutomationMLEditorInstallerDownloadLink": "https://github.com/AutomationML/AutomationMLEditor/raw/main/Installer/AmlEditorUpdaterSetup.zip",
   "NewsItems": [
@@ -19,15 +19,15 @@
 	}, 
 	{
 	  "Category": "ReleaseNews",
-      "Summary": "A new library relations view showing a library dependency graph is in preparation.",
+      "Summary": "A new library relations view showing a library dependency graph is ready to use.",
       "More": "Classes and Types in a library can have references to classes and types in other libraries. The relations view shows a library dependeny graph for a single library or the full document. You are invited to comment on this announcement.",
       "Links": [        
         {
       "Address": "https://github.com/AutomationML/AutomationMLEditor/discussions/10",
-      "LinkTarget": "Announcement for a library dependency graph"
+      "LinkTarget": "Library dependency graph available"
         }	      
       ],
-      "DateString": "09.06.2023"
+      "DateString": "01.04.2024"
 	},    
   	{
 	  "Category": "ReleaseNews",
@@ -75,19 +75,19 @@
 	},
 	  {
 	  "Category": "DeveloperNews",
-      "Summary": "Continuation of AML software support by Josef Prinz",
-      "More": "As far as possible, I will continue to contribute to the further development and maintenance of the AutomationML software components.",
+      "Summary": "AML software support by Josef Prinz ended",
+      "More": "I will no longer be involved in the further development and maintenance of the AutomationML software components. You may continue to contact me for bug fixes.",
       "Links": [        
         {
       "Address": "https://berlin-prinz.de",
-      "LinkTarget": "AutomationML software support by Josef Prinz"
+      "LinkTarget": "AutomationML software support by Josef Prinz."
         },
 	{
       "Address": "mailto:devspace@berlin-prinz-de",
       "LinkTarget": "mail: devspace@berlin-prinz.de"
         }
       ],
-      "DateString": "25.04.2023"
+      "DateString": "03.05.2024"
 	},
 	  {
 	  "Category": "DeveloperNews",
