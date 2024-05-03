@@ -1,10 +1,19 @@
 ﻿
 ## AutomationML Editor Release Notes
 
-### [Version 6.2.3](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.2.3) 
+### [Version 6.2.4](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.2.4) 
 
 #### Note
 If your previous version is 6.1.x or older, please also read the detailed release notes for version [6.2.1](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.2.1) before installing this version.
+
+#### Bug-Fixes
+- Fixed an issue where exchange of unverified libraries raised an exception.
+- Fixed an issue where derivation of an attribute type in the find online dialog failed to get the correct CaexPath.
+
+#### Changes
+- Status Message in the FindOnline Dialog is made more noticeable
+
+### [Version 6.2.3](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.2.3) 
 
 #### New Features
 - The 'Find class online dialog' contains a new option to define an inheritance relation between the selected class and the class found.
