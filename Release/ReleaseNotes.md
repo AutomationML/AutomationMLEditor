@@ -12,6 +12,8 @@ If your previous version is 6.1.x or older, please also read the detailed releas
 
 #### Changes
 - Status Message in the FindOnline Dialog is made more noticeable
+- Folder location in server configuration are always editable
+- FilePath of current selected server profile is shown in status line of server configuration window.
 
 ### [Version 6.2.3](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.2.3) 
 
