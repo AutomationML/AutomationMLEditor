@@ -1,10 +1,18 @@
 ﻿
 ## AutomationML Editor Release Notes
 
-### [Version 6.2.4](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.2.4) 
+### [Version 6.2.5](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.2.5) 
 
 #### Note
 If your previous version is 6.1.x or older, please also read the detailed release notes for version [6.2.1](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.2.1) before installing this version.
+
+#### Bug-Fixes
+- Fixed an issue in the file server configuration dialog
+
+#### New Features
+- The server configuration dialog provides a method to check, if a defined folder profile is accessible for reading or writing using the provided credentials and folder location.
+
+### [Version 6.2.4](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.2.4) 
 
 #### Bug-Fixes
 - Fixed an issue where exchange of unverified libraries raised an exception.
