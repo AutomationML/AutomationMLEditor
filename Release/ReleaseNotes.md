@@ -1,6 +1,24 @@
 ﻿
 ## AutomationML Editor Release Notes
 
+### [Version 6.2.6](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.2.6) 
+
+#### Note
+If your previous version is 6.1.x or older, please also read the detailed release notes for version [6.2.1](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.2.1) before installing this version.
+
+#### New Features
+- A Server profile for an AutomationML file server can now be defined, using the unsecure WebDAV HTTP network protocol. This feature should only be used in LAN configurations. Otherwise th secure WebDAV HTTPS protocol shall be preferred.
+- A Server profile for an AutomationML file server can now be defined, using a local host, folder or device for direct file access. This feature can be used to publish libraries locally for testing.
+
+#### Changes
+- When a new version of an already versioned library is created, the new version includes all version references of the previous version. This has been changed now. Version references of the previous version are not included in the new version. 
+- The option "publish to folder" has been removed from the publishing dialog. Use the new file server configuration for a local folder instead.
+- The redundant folder profile type specification has been removed from the configuration dialog.
+ 
+#### Bug-Fixes
+- Fixed a bug that affected the publication of AutomationML container files as example documents.
+
+
 ### [Version 6.2.5](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.2.5) 
 
 #### Note
