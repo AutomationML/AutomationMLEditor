@@ -1,6 +1,11 @@
 ﻿
 ## AutomationML Editor Release Notes
 
+### [Version 6.2.7](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.2.7) 
+
+#### New Feature
+- A new treeview layout option is  added to display version information of classes at tree nodes.
+
 ### [Version 6.2.6](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.2.6) 
 
 #### Note
