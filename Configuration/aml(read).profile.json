@@ -2,6 +2,7 @@
   "UserName": null,
   "AccessRights": 0,
   "NetworkProtocol": 0,
+  "ServiceName": "AML.Release0",
   "ServerName": "automationml.ovgu.de",
   "PortNumber": 0,
   "BaseAddress": "public.php/webdav",
