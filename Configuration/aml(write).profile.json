@@ -25,7 +25,7 @@
   "BackupData": {
     "AutomationMLEdition": 2,
     "ContentType": 6,
-    "Folder": "Backups",
+    "Folder": "Exchange/SharedAMLDocuments/Backups",
     "UserName": null,
     "PasswordHash": null
   },
