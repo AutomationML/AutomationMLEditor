@@ -7,7 +7,9 @@
 # AutomationML Editor
 
 ## News
-A new preview [Version 6.3.0-preview](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.3.0-preview) of the editor is available. Users of this version are kindly requested to provide feedback.  
+**Version 6.3.0** will be released shortly. The editor offers many new functions that better support the development of AutomationML libraries. A preview of the version is already available in the  [Version 6.3.0 release notes](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.3.0). Some visual elements have also been refreshed, such as the editor logo, the display of document icons in windows explorer and the welcome screen. As soon as the release is available, you will be notified by the editor.
+
+-----------------------------------------------
 
 The AutomationML Editor release [Version 6.2.8](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.2.8) is now available. With version 6.2, the AutomationML Editor offers more **support for the management and creation of AutomationML class libraries** according to [Conventions for the modelling of AutomationML libraries](https://www.automationml.org/wp-content/uploads/2023/11/Conventions-for-modelling-AutomationML-libraries-V1.0.0-external.pdf). Compared to previous versions, the use of the class and attribute type libraries, offered by AutomationML, has been fundamentally improved and standardized. These libraries are only integrated into your own documents via external references, using fixed server URLs. 
 
