@@ -1,7 +1,7 @@
 ﻿
 ## AutomationML Editor Release Notes
 
-### [Version 6.3.0](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.3.0) 
+### [Version 6.3.1](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.3.1) 
 
 This version of the editor facilitates the creation and publication of AutomationML library and document versions. It supports collaboration in the development of new versions and their distribution. The editor offers new functions for managing content, hosted on an AutomationML file server, such as withdrawing documents that have been published erroneously or incorrectly.  **A valid editor license is required** to use all functions in this context.
 
