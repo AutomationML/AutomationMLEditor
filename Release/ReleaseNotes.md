@@ -1,6 +1,29 @@
 ﻿
 ## AutomationML Editor Release Notes
 
+### [Version 6.3.2](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.3.2) 
+
+#### New Features
+- The servicename of the selected active external AutomationML file server is shown in the top right main window header. The displayed name can be clicked to open the service configuration dialog.
+- The verification icon for signed libraries provides the service name of the verification source in its tool tip.
+- Server addministration allows to update key files used for library signing.
+- Adding an AutomationML ID as a semantic reference to attributes is an additional paste option when pasting external attribute type references.
+
+#### Changes
+- The feature to automatically create an inheritance relation for child classes has been removed. It is recommended to model classes preferably in libraries as a flat list structure and not artificially reproduce the inheritance hierarchy.
+- Due to an update in the modeling conventions for AutomationML libraries, classes and types are checked to contain a description.
+- The dialog for moving an external AutomationML file distributor to another server has been modified. It is started via the configuration dialog of the new server.
+- Library versionnumbers for exended versions of libraries or new editions do not require a higher version number for delta extensions.
+- New document and library editions do not automatically increase the version number of classes.
+- Dialogs for server administration have been redesigned for better feedback.
+- The External Reference Assignment dialog has been modified and shows the already used references of the current document.
+
+#### Bug Fixes
+- Solved some issues regarding possible deadlocks when an external file sever could not be connected.
+- Fixed an issue where undoing would leave an invalid document status and a subsequent check would cause a crash. 
+- Fixed an issue where copying a class with a base class reference from an external document creates an invalid base class reference in the copied object.
+
+
 ### [Version 6.3.1](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.3.1) 
 
 This version of the editor facilitates the creation and publication of AutomationML library and document versions. It supports collaboration in the development of new versions and their distribution. The editor offers new functions for managing content, hosted on an AutomationML file server, such as withdrawing documents that have been published erroneously or incorrectly.  **A valid editor license is required** to use all functions in this context.
