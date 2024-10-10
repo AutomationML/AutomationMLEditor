@@ -1,7 +1,35 @@
 ﻿
 ## AutomationML Editor Release Notes
 
-### [Version 6.3.2](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.3.2) 
+### [Version 6.3.4](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.3.4) 
+
+#### Changes
+- If the `Unique` option is selected in the paste dialog, inserted elements are always get a unique name, even if no uniqueness is required by the standard.
+- No InternalLink connections between inherited interface objects are displayed in the inheritance view.
+
+#### Bug Fixes
+- Fixed an issue where the producer and domain field in the document identification of the publishing dialog were not editable.
+- Fixed an issue where a version reference was published which could not be resolved.
+- Fixed an issue where a version reference to an incorrect version was created.
+- Fixed an issue where the version reference was not displayed in the dependency diagram.
+
+### Version 6.3.3
+
+#### New Features
+- Newly created libraries are automatically assigned an `ID`.
+- If a class is selected in the library view of an external document, the relation view also shows the classes derived from it, including the derived classes of the main document.
+- `ExternalReferences`, classified as version references also contain a `Version` element, defining if the reference links to a new Version (forward) or old Version (backward).
+- If three consecutive unauthorized login attempts have been made to an AutomationML file provisioning service, no further attempts will be made by the editor. Otherwise there is a risk that the IP address will be blocked by the server. The editor informs the user that the number of unauthorized login attempts has been exceeded. The login block remains in place even after the Editor is restarted. The editor will not attempt to log in again until the user releases the lock.  This is possible when executing the connection check in the configuration dialog of the service. However, this should only be done if the login information is correct.
+
+#### Changes
+- If a new document version is published that contains versioned classes or libraries, but these classes or libraries are not contained in the published previous version, the version references of these classes are deleted in the new version. This can happen if intermediate versions are involved.
+
+#### Bug Fixes
+- Fixed an issue where a new version document, created from a local copy of a published version, did not create a forward veresion reference in the published version.
+- Fixed an issue where the merge service failed to correctly classify an imported external reference as a version reference.
+- The problem that publishing a new document version to a local file system did not create a version reference has been fixed.
+
+### Version 6.3.2
 
 #### New Features
 - The servicename of the selected active external AutomationML file server is shown in the top right main window header. The displayed name can be clicked to open the service configuration dialog.
@@ -24,7 +52,7 @@
 - Fixed an issue where copying a class with a base class reference from an external document creates an invalid base class reference in the copied object.
 
 
-### [Version 6.3.1](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.3.1) 
+### Version 6.3.1
 
 This version of the editor facilitates the creation and publication of AutomationML library and document versions. It supports collaboration in the development of new versions and their distribution. The editor offers new functions for managing content, hosted on an AutomationML file server, such as withdrawing documents that have been published erroneously or incorrectly.  **A valid editor license is required** to use all functions in this context.
 
