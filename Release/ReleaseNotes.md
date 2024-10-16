@@ -1,6 +1,14 @@
 ﻿
 ## AutomationML Editor Release Notes
 
+
+### [Version 6.3.5](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.3.5) 
+
+#### Bug Fixes
+- When creating an instance from an external class, the CAEX path for the reference to the class was not formed correctly. This error has been fixed.
+- Fixed an issue where the override method of inherited elements, which are inherited from external elements, results in an invalid caex reference.
+- Fixed an issue where the editor terminates with an exception when no internet connection was available.
+  
 ### [Version 6.3.4](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.3.4) 
 
 #### Changes
