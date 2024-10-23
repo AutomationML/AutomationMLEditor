@@ -1,7 +1,20 @@
 ﻿
 ## AutomationML Editor Release Notes
 
-### [Version 6.3.8](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.3.8) 
+### [Version 6.3.9](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.3.9) 
+
+#### Changes 
+- The dialog shown to upgrade an old version of a referenced external file to a new version has been modified and offers additional options. 
+- The feature to automatically create an inheritance relation for child classes has been removed in release version 6.3.2. This feature has been reactivated. To use the feature, it has to be enabled in the settings.
+
+#### New Features
+- The feature to check the availability of new versions for referenced external files can be called from the Files menu, even if this option is disabled in the settings.
+
+#### Bug Fixes
+- Fixed an issue where the application of the assign reference paste method could cause an exception.
+
+
+### Version 6.3.8
 
 #### Bug Fixes
 - If the size of the transfer dialog is changed, the displayed content is adjusted.
