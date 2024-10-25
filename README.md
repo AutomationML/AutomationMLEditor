@@ -7,7 +7,7 @@
 # AutomationML Editor
 
 ## News
-[**Version 6.3.9**](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.3.9) has been released. The editor offers many new functions that better support the development of AutomationML libraries. Some visual elements have also been refreshed, such as the editor logo, the display of document icons in windows explorer and the welcome screen. As soon as the release is available, you will be notified by the editor.
+[**Version 6.3.10**](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.3.10) has been released. The editor offers many new functions that better support the development of AutomationML libraries. Some visual elements have also been refreshed, such as the editor logo, the display of document icons in windows explorer and the welcome screen. As soon as the release is available, you will be notified by the editor.
 
 -----------------------------------------------
 
