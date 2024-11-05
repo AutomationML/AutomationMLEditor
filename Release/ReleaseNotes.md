@@ -1,6 +1,28 @@
 ﻿
 ## AutomationML Editor Release Notes
 
+### [Version 6.3.11](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.3.11) 
+
+#### New Features
+- If an extension is selected in the add reference dialog, the original document version is marked with a map marker. 
+
+#### Changes
+- Increment minor version always sets the patch version to 0.
+- The version upgrade assistent has been modified. If the current file has unsafed modifications it can be saved before the upgrade. The upgraded file can be saved to a new file.
+- Extenal referenced files which are local files are no longer copied to the _AMLExternalLibraries folder.
+- Alias names are editable in the upgrade version dialog.
+- When a new version or extension of a document is created the referenced documents in the new version are checked for updates. If old versions are referenced the upgrade dialog is showed.
+- Generated Aliasnames for extensions will contain the extension text.
+- An informational message in the dialog to transfer server data has been modified.
+
+#### BugFixes
+- Fixed a bug, where a SupportedRoleClass gets an invalid path reference when created from an external RoleClass
+- Fixed a bug, where a Path to an external AttributeType was not marked as invalid, when it could not be resolved to an external AttributeType.
+- Fixed a bug, where invalid alias names were not listed in the validation report.
+- Fixed a bug, where the switch of the signature validation from off to on could raise an exception.
+- Fixed a bug, where an internal link, defined in a class was not copied to a class instance.
+- Fixed some issues related to instance creation, where ID references wer not updated to there corresponding instance elements.
+
 ### [Version 6.3.10](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.3.10) 
 
 #### New Features
