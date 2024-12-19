@@ -1,0 +1,24 @@
+{
+  "Products": [
+    {
+      "GenerationDate": {
+        "Day": 26,
+        "Month": 1,
+        "Year": 2022
+      },
+      "Name": "AmlEditor",
+      "PublicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAEsAHOPPtMGfnbIZ22YOhGTmLdO6VVmjJPlBP2tukpKr/qXnP6e9d\u002BU1thZm1/tYPct3NDnnEshesJVCE9Me2h1w==",
+      "Version": "6.0"
+    },
+    {
+      "GenerationDate": {
+        "Day": 19,
+        "Month": 12,
+        "Year": 2024
+      },
+      "Name": "AmlEditor",
+      "PublicKey": "MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE/ueIWiY/lE67SMy9ovjqd6xRafhkhhHKUZYllTSPsbYQgQ\u002BeVQPOPiPbMINqSZ4Hh2IVkHHwvsIhS9roBVTpKw==",
+      "Version": "6.4"
+    }
+  ]
+}
