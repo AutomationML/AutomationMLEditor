@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <License>
-    <Id>821f93e0-28c1-42a0-b16a-fba9687aee44</Id>
+    <Id>2ba65af7-ee36-419b-8654-6294e3db70ef</Id>
     <Type>Standard</Type>
-    <Expiration>Wed, 30 Dec 2065 23:00:00 GMT</Expiration>
+    <Expiration>Thu, 30 Dec 2060 23:00:00 GMT</Expiration>
+    <LicenseAttributes>
+        <Attribute name="AmlEditor">6.4</Attribute>
+    </LicenseAttributes>
     <Quantity>0</Quantity>
     <ProductFeatures>
         <Feature name="LicenseModel">Free</Feature>
@@ -17,5 +20,5 @@
         <Name>AMLEditor</Name>
         <Email>office@AutomationML.org</Email>
     </Customer>
-    <Signature>MEQCIGRd+ybsAEGRHp4mkhFCePh4An8Ady7pq2l8AqKnKRACAiA9c2Wg8xoTM1iPpaQK/UozDsvvdVjz1JcoU4iHxooQhw==</Signature>
+    <Signature>MEUCIDsP6hdFqGVrazZN40OVvfynwTHLatZqBO/oDCHybmAYAiEAkxzn30P0n2SEh285WLHkg3TDcht2kUGvAZQh6ttcz3w=</Signature>
 </License>
