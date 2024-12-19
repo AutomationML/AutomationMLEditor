@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<License>
+    <Id>821f93e0-28c1-42a0-b16a-fba9687aee44</Id>
+    <Type>Standard</Type>
+    <Expiration>Wed, 30 Dec 2065 23:00:00 GMT</Expiration>
+    <Quantity>0</Quantity>
+    <ProductFeatures>
+        <Feature name="LicenseModel">Free</Feature>
+        <Feature name="AllowAMLServerPublication">false</Feature>
+        <Feature name="AllowLocalServerPublication">false</Feature>
+        <Feature name="WriteServiceProfilesCount">0</Feature>
+        <Feature name="MaxInternalElementCount">100</Feature>
+        <Feature name="MaxClassesCount">40</Feature>
+        <Feature name="MaxEditLibTypesCount">2</Feature>
+    </ProductFeatures>
+    <Customer>
+        <Name>AMLEditor</Name>
+        <Email>office@AutomationML.org</Email>
+    </Customer>
+    <Signature>MEQCIGRd+ybsAEGRHp4mkhFCePh4An8Ady7pq2l8AqKnKRACAiA9c2Wg8xoTM1iPpaQK/UozDsvvdVjz1JcoU4iHxooQhw==</Signature>
+</License>
