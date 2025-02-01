@@ -1,80 +1,56 @@
 ﻿
 ## AutomationML Editor Release Notes
 
-### [Version 6.3.11](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.3.11) 
+### [Version 6.4.0](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.0) 
 
-#### New Features
-- If an extension is selected in the add reference dialog, the original document version is marked with a map marker. 
+#### Major Changes
+- This version introduces a **new licence model** for the Editor. 
+    1. As before, there is an AutomationML Editor Free version without a licence file. It contains all the basic features and functions, but with some function and model limitations.
+	2. A new AutomationML Editor Plus version is available with an extended range of functions and fewer functional restrictions.
+	3. The full version is the AutomationML Editor Premium version with the full range of functions without model limitations.
+  
+  Please note, that the feature restrictions for the free version have changed.
+
+- The method for integrating editor plugins has been changed. Existing versions of already loaded plugins must be replaced by new versions. To do this, all plugins must be manually uninstalled and reinstalled using the editor's plugin manager. Corresponding new versions are available for the plugins offered by the AutomationML Association. Self-developed plugins must be converted to the new method. The procedure is described on the development page for plugins.
+- The function for deactivating the aml file service has been removed. It is no longer possible to import AML download resources from the AML website.
 
 #### Changes
-- Increment minor version always sets the patch version to 0.
-- The version upgrade assistent has been modified. If the current file has unsafed modifications it can be saved before the upgrade. The upgraded file can be saved to a new file.
-- Extenal referenced files which are local files are no longer copied to the _AMLExternalLibraries folder.
-- Alias names are editable in the upgrade version dialog.
-- When a new version or extension of a document is created the referenced documents in the new version are checked for updates. If old versions are referenced the upgrade dialog is showed.
-- Generated Aliasnames for extensions will contain the extension text.
-- An informational message in the dialog to transfer server data has been modified.
+- When a new version of a library, class or attribute type is created, the new version will keep the ID of the original version. 
+- An InternalElement or ExternalInterface can be moved interactively, even if there are InternalLink relations to the moved element.  
+- When an attribute type instance is created, no header data of the type is transferred to the attribute.
+- When saving a document, local file paths in external references are changed to relative or absolute file urls depending on where the file is saved.
+- When loading a document, it is checked whether paths in external references are redirected to new addresses. If redirected addresses exist, the external references are changed and a message is displayed in the status information.
+- If an external reference to a local automationml file is inserted which is an extension, a reference is also added to the extended document.
+- If an AutomationML object is created whose class is not found in a referenced library, such as when creating a group, a dialog is displayed to select the library version in which the class is defined.  
+- If an edited library is a new version of a library, names and IDs of classes can only be edited, if the version is defined as a new major version.
+- If a library extension is referenced and a new version of an extended library is found an upgrade option for the extended library version is not notified.
+- The nameing consistency rule defined for consistent document and library names has been changed. The '.' character is allowed, i.e. to classify a domain with a sub domain. 
+- The AutomationML library server has been renamed to AML library space.
+- When an AttributeType is derived from a base Type, the datatype of the base type is also assigned to the derived type.
+- CAEXPath characters, used to mark escape sequences in a path are omitted from class- and role- reference representations in tree views.
+
+#### New Features
+- When no document is loaded, all tree view backgrounds change to a light gray color.
+- The publication consistency check results protocol provides new options for filtering results according to result type. 
+- A new option in the Document References can be used to set that all externally referenced documents are always opened when opening a document.
+- Additional consistency checks related to versioning rules and type references are executed when a library is published.
+- Find Online Dialog and External Class Reference Dialog provide additional information about selected classes.
+- The Attribute Tree View Add-Button allows to reference external attribute types.
+- It is now possible to add multiple extended versions of the same library to an extension document. The method is provided in the context menue of a library tree view pane.
+- New consistency rules for the naming of extension versions of libraries have been added.
 
 #### BugFixes
-- Fixed a bug, where a SupportedRoleClass gets an invalid path reference when created from an external RoleClass
-- Fixed a bug, where a Path to an external AttributeType was not marked as invalid, when it could not be resolved to an external AttributeType.
-- Fixed a bug, where invalid alias names were not listed in the validation report.
-- Fixed a bug, where the switch of the signature validation from off to on could raise an exception.
-- Fixed a bug, where an internal link, defined in a class was not copied to a class instance.
-- Fixed some issues related to instance creation, where ID references wer not updated to there corresponding instance elements.
+- If an element is selected in the tree view which can not have assigned attributes (as for example InstanceHierarchies), the attribute view switches to an empty view.
+- When a class was moved in the class tree, not all references to the class were always updated. This bug has been fixed.
+- The UNDO operation for move operations had left an inconsistent model in certain cases (e.g. with master objects). This error has been fixed.
+- If an InternalElement is affected by a split operation, mirror references to outsourced elements have not been changed correctly.
+- The title of the Header Editor did not always display the name of the edited object. This error has been fixed. 
+- If a mirror attribute is located in a different attribute tree than its master element, the target is now visualized and correctly selected when navigating to the master element via 'Goto Master'.
+- Fixed some issues related to the handling of double click events on tree view items
+- Fixed some issues related to the presentation of the paste dialog and the selection of options.
+- In the attribute editor, when changing the selected object with attributes, the previously selected attribute was still displayed in the editor, although no attribute was selected from the newly selected object for editing. This error has been fixed.
+- Fixed the editor property view of the nominal scaled constraint editor.
+- Fixed an issue in the paste dialog where the optional paste properties were not visible or editable.
+- Library Relation Diagram will only show related libraries of the selected type when dependency relations are not selected.
+- It is allowed, to create multiple new versions of a single class or type.
 
-### [Version 6.3.10](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.3.10) 
-
-#### New Features
-- The Service Configuration Dialog provides a new command button to open the profiles folder of the editor.
-
-#### Changes
-- The menu items to open external files and collection have been moved from the `File->Open` menu item to a new `File->Load` menu item.
-- Increment minor version and patch version options for classes, used in the version creation dialog, also change the document and library version numbers.
-
-#### Bug Fixes
-- Fixed an issue where a modified class name was not propagated to the class children, when the children were derived from the changed class.
-- Fixed an issue where the creation of an instance of an external class failed to create valid class references.
-- Fixed an issue where a valid name of an attribute, shown in the header editor, was marked as invalid.
-- Fixed an issue where the close button in the outsource dialog has no effect.
-- Fixed an issue where the preview window for external documents could raise an exception when internal links are expanded.
-- Fixed an issue where the resizing of the server administration dialog left blank spaces in its window.
-- Fixed some issues with bad text colours when the dark mode is used.
-- Fixed an issue, where the settings icon in the right window command button was invisible in some themes.
-- Fixed an issue, where references to document versions could defined with an not unique alias name.
-- Fixed an issue, where the selected dependency relation was not updated in the dependency diagram.
-
-### Version 6.3.9
-
-#### Changes 
-- The dialog shown to upgrade an old version of a referenced external file to a new version has been modified and offers additional options. 
-- The feature to automatically create an inheritance relation for child classes has been removed in release version 6.3.2. This feature has been reactivated. To use the feature, it has to be enabled in the settings.
-
-#### New Features
-- The feature to check the availability of new versions for referenced external files can be called from the Files menu, even if this option is disabled in the settings.
-
-#### Bug Fixes
-- Fixed an issue where the application of the assign reference paste method could cause an exception.
-
-
-### Version 6.3.8
-
-#### Bug Fixes
-- If the size of the transfer dialog is changed, the displayed content is adjusted.
-- If a document was published for which there are several unpublished previous versions, incorrect version references were created. This error has been fixed.
-- An error in the recognition and display of backup files has been fixed.
-
-#### Changes
-- After the successful transfer of server data, a note on the use of the source and the redirection table is displayed.
-- Before transferring server data to a new server, a warning is displayed if no anonymous read access exists for the new server. As a result, login information in the new document URLs would be readable.
-
-#### New Features
-- There is a new button on the right-hand side of the main window frame for editing and viewing the editor's configuration files.
-- The publication dialog shows when a document is published as a branch version.
-- The publication of versions of local documents is not permitted if a newer version of the locally saved document has already been published.
-
-### Version 6.3.7
-
-#### Bug Fixes
-- Fixed a problem when publishing an AutomationML document where an incorrect error message was displayed regarding a disallowed file URI.
-- Fixed an issue where a missing OriginID in a SourceDocumentInformation could raise an exception. All added SourceDocumentInformation get a unique OriginID as default now.
