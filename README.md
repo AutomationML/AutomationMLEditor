@@ -6,14 +6,19 @@
 
 # AutomationML Editor
 
-## News
-[**Version 6.4.0.11**](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.0) has been released. The editor offers many new functions that better support the development of AutomationML libraries. Some visual elements have also been refreshed, such as the editor logo, the display of document icons in windows explorer and the welcome screen. As soon as the release is available, you will be notified by the editor.
+The latest [**Version 6.4.0**](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.0), developed by the AutomationML Association, provides new functions for the first time that open up new possibilities for semantic modeling. In addition, a new license model allows a wider user community to use the editor as a full version without having to be a member. Further information can be found [here](https://www.automationml.org/about-automationml/aml-tools/automationml-editor/).
+
+## What’s new?
+
+With the innovative AutomationML ID concept, we now enable global access to semantic libraries, revolutionizing the world of automation. Through a state-of-the-art publication mechanism, AutomationML libraries can be systematically reviewed, published, and versioned. Additionally, online search functionalities make libraries and classes globally discoverable and accessible on servers worldwide.
+
+These new capabilities mark a significant milestone in the evolution of AutomationML. We are leveraging the foundation for semantic modeling of complex systems, contributing to standardization and digitalization of the exchange of engineering data in industry.
 
 -----------------------------------------------
 
-The AutomationML Editor release [Version 6.2.8](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.2.8) is now available. With version 6.2, the AutomationML Editor offers more **support for the management and creation of AutomationML class libraries** according to [Conventions for the modelling of AutomationML libraries](https://www.automationml.org/wp-content/uploads/2023/11/Conventions-for-modelling-AutomationML-libraries-V1.0.0-external.pdf). Compared to previous versions, the use of the class and attribute type libraries, offered by AutomationML, has been fundamentally improved and standardized. These libraries are only integrated into your own documents via external references, using fixed server URLs. 
+The AutomationML Editor offers more **support for the management and creation of AutomationML class libraries** according to [Conventions for the modelling of AutomationML libraries](https://www.automationml.org/wp-content/uploads/2023/11/Conventions-for-modelling-AutomationML-libraries-V1.0.0-external.pdf). Compared to previous versions, the use of the class and attribute type libraries, offered by AutomationML, has been fundamentally improved and standardized. These libraries are only integrated into your own documents via external references, using fixed server URLs. 
 
-The most important improvement in version 6.2 is the distribution of AutomationML libraries via a publicly accessible file server. The editor contains a preconfigured access to the **AutomationML NextCloud** as a file server. However, it is also possible to use a company-owned or privately used file server as long as it is accessible via the WebDAV/Https network protocol. All configured servers can also be used in parallel.
+The most important improvement is the distribution of AutomationML libraries via a publicly accessible **AML library space**. The editor contains a preconfigured access to the **AutomationML Library Releases**. However, it is also possible to configure a company-owned or privately used **AML library space** as long as it is accessible via the WebDAV/Https network protocol. All configured servers can also be used in parallel.
 
 You can find detailed instructions on how to use the new features in the wiki on the following topics:
 - [Using external Sources](https://github.com/AutomationML/AutomationMLEditor/wiki/UsingExternals)
@@ -22,7 +27,7 @@ https://github.com/AutomationML/AutomationMLEditor/wiki/Layout#External-source-w
 - [Preview Windows](https://github.com/AutomationML/AutomationMLEditor/wiki/Layout#Preview-windows)
 - [Publishing](https://github.com/AutomationML/AutomationMLEditor/wiki/Publish)
 
-With Version 6.2.1 the [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) is required.    
+The [.NET 8 Desktop Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) is required.    
 
 ## Instructions for use
 
@@ -33,14 +38,14 @@ You can also get detailed help on how to use it in the [AutomationML Editor Wiki
 
 ## Licensing
 
-Since Version 6.0, a new license model is implemented that remains its free availability but adds some limitations in the size of AutomationML models. The size limits are generous and the applicability for most educational and didactic purposes is not touched. Users who are members of the AutomationML Association will be unlimited in the model sizes, and additionally be able to make use of additional functions and plug-ins. Members receive the license key automatically through membership via the members area, the license is distributable across the members company.
+Accessible to Everyone – Free Version and Flexible Licensing
 
-What does this mean for non-members? As mentioned, the AutomationML Editor version 6 is still available for free for educational and experimental use.
+For the first time, the AutomationML Editor is available independently of AutomationML membership.
+- **Free Version:** Completely free for everyone, perfect for getting started with AutomationML.
+- **Licensing Models:** Flexible options to unlock advanced features without requiring membership – allowing even non-members to fully leverage the power of the AML Editor.
+- Special benefits for the **academic community:** Tailored conditions make the Premium version highly affordable for research and education.
 
-Additionally, the last current version ([V. 5.6.11](https://github.com/AutomationML/AutomationMLEditor/releases/download/v5.6.11/AMLEditor.5.6.11.Setup.zip)) is still available here and from the AutomationML Website with unrestricted size and features and is not affected by the changes/new features. But the development of that version is frozen and is no longer supported.
-
-Version 6 is the next generation software and can be used in full for test purposes. If you run into limitations or desires the application of dedicated Plugins, temporary license keys can be requested from the AutomationML office. Your first and last name as well as an official email address of your organisation would be important. The duration of these license keys may depend on the planned use case. 
-
+Further information can be found [here](https://www.automationml.org/about-automationml/aml-tools/automationml-editor/).
 
 ## Installation
 
