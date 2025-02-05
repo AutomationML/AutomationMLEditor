@@ -1,6 +1,14 @@
 ﻿
 ## AutomationML Editor Release Notes
 
+### Version 6.4.0.23 
+
+#### BugFixes
+- Fixed a bug that caused a crash when opening the PluginManager.
+- Fixed a bug that prevented some dialog windows from opening.
+- An error where a contained class reference was not redirected when creating an instance of an external class has been fixed.
+
+
 ### [Version 6.4.0](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.0) 
 
 #### Major Changes
