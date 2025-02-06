@@ -1,6 +1,12 @@
 ﻿
 ## AutomationML Editor Release Notes
 
+### Version 6.4.0.24
+
+#### BugFixes
+- Fixed a bug that left the main window minimized when the splash screen was closed.
+- Fixed an error where a plugin update could not be installed.
+
 ### Version 6.4.0.23 
 
 #### BugFixes
