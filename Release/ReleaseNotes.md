@@ -1,6 +1,13 @@
 ﻿
 ## AutomationML Editor Release Notes
 
+### [Version 6.4.0.25](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.0) 
+
+#### BugFixes
+- Fixed a bug, related to merging and redirection of references.
+- Fixed a bug, that could cause an exception when restoring a backup file from the library space.
+
+
 ### Version 6.4.0.24
 
 #### BugFixes
