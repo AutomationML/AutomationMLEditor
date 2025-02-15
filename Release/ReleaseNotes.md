@@ -1,6 +1,16 @@
 ﻿
 ## AutomationML Editor Release Notes
 
+### [Version 6.4.0.26](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.0) 
+
+#### BugFixes
+- Fixed a bug, related to reference external attribute types when instances of external classes are created.
+- A bug has been fixed that could affect the visibility of plugins.
+
+#### New Features
+- Edit description dialog shows the name of the modified object. 
+
+
 ### [Version 6.4.0.25](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.0) 
 
 #### BugFixes
