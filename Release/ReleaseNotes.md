@@ -1,7 +1,17 @@
 ﻿
 ## AutomationML Editor Release Notes
 
-### [Version 6.4.0.26](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.0) 
+### [Version 6.4.0.27](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.0) 
+
+#### Changes
+- The restrictions on the use of the AutomationML prefix for naming libraries are less strict.
+- Attributes cannot define multiple semantic references defining the same AMLID. 
+
+#### New Features
+- If a new attribute type is derived from an existing untyped attribute, other identical attributes can be found and automatically transformed into instances of the new attribute type.
+
+
+### Version 6.4.0.26
 
 #### BugFixes
 - Fixed a bug, related to reference external attribute types when instances of external classes are created.
@@ -11,7 +21,7 @@
 - Edit description dialog shows the name of the modified object. 
 
 
-### [Version 6.4.0.25](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.0) 
+### Version 6.4.0.25
 
 #### BugFixes
 - Fixed a bug, related to merging and redirection of references.
