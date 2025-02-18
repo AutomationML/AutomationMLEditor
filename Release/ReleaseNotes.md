@@ -1,7 +1,13 @@
 ﻿
 ## AutomationML Editor Release Notes
 
-### [Version 6.4.0.27](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.0) 
+### [Version 6.4.0.28](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.0) 
+
+#### Changes
+- Modification of the New Feature introduced in version 6.4.0.27
+
+
+### Version 6.4.0.27 
 
 #### Changes
 - The restrictions on the use of the AutomationML prefix for naming libraries are less strict.
