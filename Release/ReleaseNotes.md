@@ -1,7 +1,12 @@
 ﻿
 ## AutomationML Editor Release Notes
 
-### [Version 6.4.0.28](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.0) 
+### [Version 6.4.0.29](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.0) 
+
+#### BugFixes
+-  Fixed an issue where the undo and redo feature was disabled after a new document version was created.
+
+### Version 6.4.0.28 
 
 #### Changes
 - Modification of the New Feature introduced in version 6.4.0.27
