@@ -1,7 +1,23 @@
 ﻿
 ## AutomationML Editor Release Notes
 
-### [Version 6.4.0.29](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.0) 
+### [Version 6.4.0.30](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.0) 
+
+#### Changes
+- The text editor control used for editing `AdditionalInformation` elements accepts return and tab input.
+- Initial expansion of value collections in property views is redefined.
+- The visualization of cardinality constraints at `ExternalInterface` elements has been modified.
+- The attribute value of an attribute instance is set to the default value of the attribute type if it exists.
+- The input element for editing boolean values in attribute windows is provided with 3 states, so that the assignment of zero values is also possible. 
+- Attribute Table view only supports editing of Name, Value, DefaultValu, Unit and DataType. Other fields have been removed.
+- The editor dialog to edit date time values of an attribute is initialized with the current date and time. 
+
+#### Bug Fixes
+- Fixed an issue where the input element for the attribute value was not adapted to the attribute datatype, when the attribute data type was changed in an attribute type.
+- Fixed an issue where the attribute value editor did not accept null values.
+- Some errors that prevented attributes from being edited in the table view have been fixed.
+
+### Version 6.4.0.29
 
 #### BugFixes
 -  Fixed an issue where the undo and redo feature was disabled after a new document version was created.
