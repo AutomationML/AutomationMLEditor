@@ -1,6 +1,13 @@
 ﻿
 ## AutomationML Editor Release Notes
 
+### [Version 6.4.1.0](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.1) 
+
+#### New Features
+- A new button is added to the tree view toolBar which allows to add a duplicate of the selected element to the selected sequence.
+- InternalLinks are validated if assigned category or direction constraints are violated. Violations are also visualized in the tree view.
+
+
 ### [Version 6.4.0.30](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.0) 
 
 #### Changes
