@@ -36,7 +36,19 @@
         }
       ],
       "DateString": "17.04.2022"
-	}, 
+	}, 	  
+    {
+      "Category": "DeveloperNews",
+      "Summary": "Version 4.4.2 of the Aml.Engine provides a new extension method to serialize a user defined class into a CAEX `AdditionalInformation` element.",
+      "More": "If a class is to be added to a CAEX object, this can be done by serializing the class in the AdditionalInformation element of a suitable CAEX object. The AmlEngine now offers a new extension method for this. An example is published in the engine repository.",
+      "Links": [        
+        {
+      "Address": "https://github.com/AutomationML/AMLEngine2.1/blob/master/Samples/basic.md",
+      "LinkTarget": "Example Implementation to serialize classes to AdditionalInformation Elements"
+        }
+      ],
+      "DateString": "02.03.2025"
+	},	  
     {
 	  "Category": "DeveloperNews",
       "Summary": "A sandbox repository to support the plugin development for AutomationML editor version 6.0 and higher is now available.",
