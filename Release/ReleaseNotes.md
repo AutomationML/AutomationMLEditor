@@ -1,7 +1,21 @@
 ﻿
 ## AutomationML Editor Release Notes
 
-### [Version 6.4.1.0](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.1) 
+### [Version 6.4.1.1](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.1) 
+
+#### New Features
+- The previously added feature to add a duplicate of the selected element to the selected sequence is now available in the context menu and via a short cut Ctrl+D.
+
+#### Changes
+- Terms of use need not to be accepted again if a new version is installed and it was accepted already for a previous version.
+- The version number of the editor is now added to the error-log file entries.
+- The search tools in tree views are visible in the overflow area of the tree view toolbar.
+- Some visual styles in dark and light modes as in the library dependency view have been improved.
+- Moving of diagram nodes in the library dependency view has been improved.
+- Layouts of some dialogs as the SI-Unit dialog have been improved.
+
+
+### Version 6.4.1.0
 
 #### New Features
 - A new button is added to the tree view toolBar which allows to add a duplicate of the selected element to the selected sequence.
