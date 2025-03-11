@@ -1,7 +1,25 @@
 ﻿
 ## AutomationML Editor Release Notes
 
-### [Version 6.4.1.1](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.1) 
+### [Version 6.4.1.2](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.1) 
+
+#### New Features
+
+Several new functions have been added to the relationship view for libraries. This is intended to facilitate the traceability of dependencies for extensive library relations.  
+
+- A new distance slider in the libraries dependencies view allows to expand and shrink the range of the related libraries of a selected library.
+- The tooltip for a library node in the libraries dependencies view has been redesigned. The tooltip popup supports highlighting of related libraries, allows to extend the distance to view all related libraries, can be moved by dragging the title bar and stays open until it is closed.
+- The libraries dependencies view automatically scales the content to fit if it is resized.
+
+#### Changes
+- The overview plus details pane in the library dependencies view is initially visible.
+
+#### Bug Fixes
+- Fixed a bug that caused an incorrect validation result when a class tree was duplicated.
+- Duplicate entries in tooltips in the library dependencies diagram have been removed.
+
+
+### Version 6.4.1.1
 
 #### New Features
 - The previously added feature to add a duplicate of the selected element to the selected sequence is now available in the context menu and via a short cut Ctrl+D.
