@@ -1,7 +1,18 @@
 ﻿
 ## AutomationML Editor Release Notes
 
-### [Version 6.4.1.2](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.1) 
+### [Version 6.4.1.3](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.1) 
+
+#### Bug Fixes
+- Fixed a bug that caused an exception when an existing document that was opened when the application was started was immediately replaced by a new document.
+- Fixed a bug where a missing or incorrect version number of a class or type was not reported as a recommendation violation when publishing a library.
+- Fixed a bug that caused an exception when a deleted library file should be restored from the library space backup folder.
+
+#### Changes
+- Violations of the naming conventions of a class can lead to several repair requests with different causes. However, a correction now only needs to be carried out once.
+
+
+### Version 6.4.1.2 
 
 #### New Features
 
