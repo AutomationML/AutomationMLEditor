@@ -1,6 +1,26 @@
 ﻿
 ## AutomationML Editor Release Notes
 
+### [Version 6.4.2.17](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.2)
+#### New features
+- Added GitHub as an AML Library Space provider (AMLGithubLibraryService).
+  - Configure via Server Configuration dialog (Add Space Access Profile -> GitHub).
+  - Supports loading libraries, examples, collections directly from public GitHub repositories.
+  - Supports publishing of library documents to a configured GitHub repository/branch.
+  - Branch selection enabled (new Branch field in profile).
+  - Supports separate repository for private key files using the SigningData profile. 
+  - Integrated into version update, external views, and redirection handling.
+- Added GitHubAccessService + interface (IGitHubAccessService) for abstraction, caching and throttling of GitHub requests.
+- External reference validation extended to support GitHub hosted resources.
+### Changes
+- Publishing workflow blocks UI while background operations run.
+- Improved error handling and reporting for GitHub operations.
+#### Bug fixes
+- Fixed an issue where Enter key closes Server Configuration dialog without saving changes.
+- Fixed an issue where GitHub rate limits were not handled correctly, causing failed requests.
+ failed requests.
+- Fixed validation failure for ExternalDataReferences inside AMLX containers when absolute file URIs were converted to container relative part paths (issue #26).
+
 ### [Version 6.4.1.3](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.1) 
 
 #### Bug Fixes
