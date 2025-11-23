@@ -1,6 +1,10 @@
 ﻿
 ## AutomationML Editor Release Notes
 
+### [Version 6.4.2.18](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.2)
+### Changes
+- Publishing libraries containing structured attributes with a unit definition is marked as a recommendation but not as a violation.
+ 
 ### [Version 6.4.2.17](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.2)
 #### New features
 - Added GitHub as an AML Library Space provider (AMLGithubLibraryService).
