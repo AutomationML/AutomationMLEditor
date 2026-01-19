@@ -6,7 +6,9 @@
 
 # AutomationML Editor
 
-The latest [**Version 6.4.2**](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.2), developed by the AutomationML Association, provides new functions for the first time that open up new possibilities for semantic modeling. In addition, a new license model allows a wider user community to use the editor as a full version without having to be a member. Further information can be found [here](https://www.automationml.org/about-automationml/aml-tools/automationml-editor/).
+The latest [**Version 6.4.3**](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.3), developed by the AutomationML Association is bundled for the .NET 10 runtime.
+
+[**Version 6.4.2**](https://github.com/AutomationML/AutomationMLEditor/releases/tag/v6.4.2), developed by the AutomationML Association, provides new functions for the first time that open up new possibilities for semantic modeling. In addition, a new license model allows a wider user community to use the editor as a full version without having to be a member. Further information can be found [here](https://www.automationml.org/about-automationml/aml-tools/automationml-editor/).
 
 ## What’s new?
 
