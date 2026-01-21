@@ -29,7 +29,7 @@
     "UserName": null,
     "PasswordHash": null
   },
-  "LibrayCollectionData": [
+  "LibraryCollectionData": [
     {
       "UserName": null,
       "Folder": "Exchange/SharedAMLDocuments/Models",
