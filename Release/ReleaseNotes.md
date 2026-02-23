@@ -3,7 +3,11 @@
 
 The automatic installer version of the AutomationML Editor requires the .NET 10 runtime. If you would like to stay to .NET 8 install it manually using [this version](https://github.com/AutomationML/AutomationMLEditor/releases/download/v6.4.3/Aml.EditorNet8.zip).
 
-### [Version 6.4.3.2](https://github.com/AutomationML/AutomationMLEditor/releases/download/v6.4.3/Aml.Editor.zip)
+### [Version 6.4.3.3](https://github.com/AutomationML/AutomationMLEditor/releases/download/v6.4.3/Aml.Editor.zip)
+### Bug Fixes
+- Fixed an issue where the auto update could not load the updated version of the editor zip file. **If version 6.4.3.1 or version 6.4.3.2 is your current version, please update it manually**.
+
+### Version 6.4.3.2
 ### Bug Fixes
 - Fixed an issue where the validation of external data references could raise a validation error for amlx containers when the reference path was valid.
 
