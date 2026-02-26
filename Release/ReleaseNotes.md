@@ -3,7 +3,13 @@
 
 The automatic installer version of the AutomationML Editor requires the .NET 10 runtime. If you would like to stay to .NET 8 install it manually using [this version](https://github.com/AutomationML/AutomationMLEditor/releases/download/v6.4.3/Aml.EditorNet8.zip).
 
-### [Version 6.4.3.3](https://github.com/AutomationML/AutomationMLEditor/releases/download/v6.4.3/Aml.Editor.zip)
+### [Version 6.4.3.4](https://github.com/AutomationML/AutomationMLEditor/releases/download/v6.4.3/Aml.Editor.zip)
+### Bug Fixes
+- Fixed an issue where the .NET 10 version could not identify plugins published on Nuget.
+### Changes
+- The method of the Plugin Manager how it checks access to a remote plugin source has been modified to get a correct response, even when a proxy server is used. This should solve the problem that plugins from remote sources could not be loaded when a proxy server was used.
+
+### Version 6.4.3.3
 ### Bug Fixes
 - Fixed an issue where the auto update could not load the updated version of the editor zip file. **If version 6.4.3.1 or version 6.4.3.2 is your current version, please update it manually**.
 
