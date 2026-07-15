@@ -1,0 +1,8 @@
+<CAEXFile SchemaVersion="3.0" FileName="TinyTest.aml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.dke.de/CAEX" xsi:schemaLocation="http://www.dke.de/CAEX CAEX_ClassModel_V.3.0.xsd">
+  <SuperiorStandardVersion>AutomationML 2.10</SuperiorStandardVersion>
+  <SourceDocumentInformation OriginName="AutomationML Editor" OriginID="916578CA-FE0D-474E-A4FC-9E1719892369" OriginVersion="5.6.2.0" LastWritingDateTime="2021-09-17T17:29:40.3541593-04:00" OriginProjectID="unspecified" OriginProjectTitle="unspecified" OriginRelease="5.6.2.0" OriginVendor="AutomationML e.V." OriginVendorURL="www.AutomationML.org" />
+  <AttributeTypeLib Name="TinyTestAttributeLib">
+    <Version>0</Version>
+    <AttributeType Name="TinyTest" AttributeDataType="xs:string" />
+  </AttributeTypeLib>
+</CAEXFile>
